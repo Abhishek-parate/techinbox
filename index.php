@@ -7,7 +7,10 @@
 content="SEO, Social Media, and Digital Marketing Agency HTML Template. Fully responsive, creative design, and easy to customize. Ideal for SEO agencies, marketing firms, and startups.">
 <meta name="keywords"
 content="SEO HTML Template, Digital Marketing, Social Media Agency, Marketing Template, Advertising Agency, Creative Agency, Bootstrap, Responsive">
-
+  <meta name="robots" content="INDEX,FOLLOW">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <!-- Title -->
 <title>SEO, Social Media & Advertising Agency HTML Template | Creative & Responsive </title>
 <?php include 'include/header.php'; ?>
