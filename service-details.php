@@ -2,11 +2,12 @@
 <html lang="en" class="fontSizeStyleOne">
 
 <head>
-
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="description"
-    content="SEO, Social Media, and Digital Marketing Agency HTML Template. Fully responsive, creative design, and easy to customize. Ideal for SEO agencies, marketing firms, and startups.">
+    content="Tech In Box provides performance-driven digital marketing services in Nagpur including SEO, Google Ads, social media marketing, and online marketing to help businesses grow.">
   <meta name="keywords"
-    content="SEO HTML Template, Digital Marketing, Social Media Agency, Marketing Template, Advertising Agency, Creative Agency, Bootstrap, Responsive">
+    content="digital marketing services in Nagpur,digital marketing agency Nagpur, online marketing Nagpur, internet marketing Nagpur, performance marketing Nagpur, digital advertising Nagpur, best marketing agency Nagpur">
   <meta name="robots" content="INDEX,FOLLOW">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="UTF-8">
@@ -17,6 +18,7 @@
 
   <?php include 'include/header.php'; ?>
 
+<?php include 'include/header.php'; ?>
 </head>
 
 <body>
@@ -638,6 +640,7 @@
   </header>
   <!-- ==================== Header End Here ==================== -->
 
+<?php include 'include/menu.php'; ?>
 
   <div id="smooth-wrapper" class="">
     <div id="smooth-content">
