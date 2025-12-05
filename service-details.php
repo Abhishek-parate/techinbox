@@ -669,136 +669,333 @@
 <!-- ==================== Breadcrumb End Here ==================== -->
 
 
-        <!-- ======================== Services Details Start ========================== -->
-        <section class="service-details py-100">
-            <div class="container">
-                <div class="row gy-4">
-            
-
-                    <div class="col-xl-16 ps-xl-5">
+<!-- ======================== Services Details Start ========================== -->
+<section class="service-details py-100">
+    <div class="container">
+        <div class="row gy-4">
+            <!-- Changed from col-xl-16 to col-xl-12 for proper Bootstrap grid -->
+            <div class="col-xl-12">
+                <div class="">
+                    <div class="tw-mt-8 d-flex flex-column tw-gap-12">
+                        <!-- First Section -->
                         <div class="">
-                       
-                            <div class="tw-mt-8 d-flex flex-column tw-gap-12">
-                                <div class="">
-                                    <h4 class="tw-mb-3 splitTextStyleOne">Cargo Transportation service</h4>
-                                    <p class="text-neutral-600">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                        elit. Placeat qui ducimus illum modi? perspiciatis accusamus soluta perferendis,
-                                        ad illum, nesciunt, reiciendis iusto et cupidit Repudiandae provident to
-                                        consectetur, sapiente, libero iure necessitatibus corporis nulla voluptate,
-                                        quisquam aut perspiciatis? Fugiat labore aspernatur eius, perspiciatis ut
-                                        molestiae, delectus rem.</p>
-                                        <p>
-                                       working the way you envisaged? Is your van a little old and tired and need
-                                        refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
-                                        industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                                        1500s, when an unknown printer took a galley of type and scrambled it to make a
-                                        type specimen book. It has survived not only five centuries, but also the leap
-                                        into electronic typesetting, re
-                                        </p>
-                                      <br>
-                                      <p>
-                                       working the way you envisaged? Is your van a little old and tired and need
-                                        refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
-                                        industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                                        1500s, when an unknown printer took a galley of type and scrambled it to make a
-                                        type specimen book. It has survived not only five centuries, but also the leap
-                                        into electronic typesetting, re</p>
-                                </div>
-                                     <div class="hover-animation-white">
-                                <img src="assets/images/thumbs/service-details-img1.png" alt="Thumb"
-                                    class="tw-rounded-xl w-100 h-100 object-fit-cover">
-                            </div>
-                                <div class="">
-                                    <h5 class="tw-mb-3 splitTextStyleOne">Sed ut perspiciatis unde omnis iste natus et
-                                    </h5>
-                                    <p class="text-neutral-600">Need something changed or is there something not quite
-                                        working the way you envisaged? Is your van a little old and tired and need
-                                        refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
-                                        industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                                        1500s, when an unknown printer took a galley of type and scrambled it to make a
-                                        type specimen book. It has survived not only five centuries, but also the leap
-                                        into electronic typesetting, remaining essentially unchanged.</p>
-                                
-                                </div>
-                                <div class="">
-                                    <div class="row gy-4">
-                                        <div class="col-sm-6">
-                                            <div class="tw-mt-15 d-flex flex-column tw-gap-5">
+                            <h4 class="tw-mb-3 splitTextStyleOne">Cargo Transportation Service</h4>
+                            <p class="text-neutral-600">Lorem ipsum dolor sit amet, consectetur adipisicing
+                                elit. Placeat qui ducimus illum modi? perspiciatis accusamus soluta perferendis,
+                                ad illum, nesciunt, reiciendis iusto et cupidit Repudiandae provident to
+                                consectetur, sapiente, libero iure necessitatibus corporis nulla voluptate,
+                                quisquam aut perspiciatis? Fugiat labore aspernatur eius, perspiciatis ut
+                                molestiae, delectus rem.</p>
+                            <p>
+                                Working the way you envisaged? Is your van a little old and tired and need
+                                refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
+                                industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+                                1500s, when an unknown printer took a galley of type and scrambled it to make a
+                                type specimen book. It has survived not only five centuries, but also the leap
+                                into electronic typesetting, re
+                            </p>
+                            <br>
+                            <p>
+                                Working the way you envisaged? Is your van a little old and tired and need
+                                refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
+                                industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+                                1500s, when an unknown printer took a galley of type and scrambled it to make a
+                                type specimen book. It has survived not only five centuries, but also the leap
+                                into electronic typesetting, re
+                            </p>
+                        </div>
+
+                        <!-- Image Section -->
+                        <div class="hover-animation-white">
+                            <img src="assets/images/thumbs/service-details-img1.png" alt="Thumb"
+                                class="tw-rounded-xl w-100 h-100 object-fit-cover">
+                        </div>
+
+                        <!-- Second Section -->
+                        <div class="">
+                            <h5 class="tw-mb-3 splitTextStyleOne">Sed ut perspiciatis unde omnis iste natus et</h5>
+                            <p class="text-neutral-600">Need something changed or is there something not quite
+                                working the way you envisaged? Is your van a little old and tired and need
+                                refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
+                                industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+                                1500s, when an unknown printer took a galley of type and scrambled it to make a
+                                type specimen book. It has survived not only five centuries, but also the leap
+                                into electronic typesetting, remaining essentially unchanged.</p>
+                        </div>
+
+                        <!-- Features and Image Section with proper row structure -->
+                        <div class="">
+                            <div class="row gy-4">
+                                <!-- Left Column - Features List -->
+                                <div class="col-sm-6">
+                                    <div class="d-flex flex-column tw-gap-5">
                                         <div class="d-flex align-items-center tw-gap-4">
                                             <span
-                                                class="tw-w-4 tw-h-4 bg-main-600 text-white tw-text-xs d-flex justify-content-center align-items-center rounded-circle">
+                                                class="tw-w-4 tw-h-4 bg-main-600 text-white tw-text-xs d-flex justify-content-center align-items-center rounded-circle flex-shrink-0">
                                                 <i class="ph-bold ph-check"></i>
                                             </span>
-                                            <p class="text-neutral-500">Lorem ipsum dolor consectetur the nunc semper
+                                            <p class="text-neutral-500 mb-0">Lorem ipsum dolor consectetur the nunc semper
                                                 pulvinar vulputate neque.</p>
                                         </div>
                                         <div class="d-flex align-items-center tw-gap-4">
                                             <span
-                                                class="tw-w-4 tw-h-4 bg-main-600 text-white tw-text-xs d-flex justify-content-center align-items-center rounded-circle">
+                                                class="tw-w-4 tw-h-4 bg-main-600 text-white tw-text-xs d-flex justify-content-center align-items-center rounded-circle flex-shrink-0">
                                                 <i class="ph-bold ph-check"></i>
                                             </span>
-                                            <p class="text-neutral-500">Dolor consectetur the nunc pulvinar vulputate
+                                            <p class="text-neutral-500 mb-0">Dolor consectetur the nunc pulvinar vulputate
                                                 neque.</p>
                                         </div>
                                         <div class="d-flex align-items-center tw-gap-4">
                                             <span
-                                                class="tw-w-4 tw-h-4 bg-main-600 text-white tw-text-xs d-flex justify-content-center align-items-center rounded-circle">
+                                                class="tw-w-4 tw-h-4 bg-main-600 text-white tw-text-xs d-flex justify-content-center align-items-center rounded-circle flex-shrink-0">
                                                 <i class="ph-bold ph-check"></i>
                                             </span>
-                                            <p class="text-neutral-500">Consectetur the nunc semper pulvinar vulputate
+                                            <p class="text-neutral-500 mb-0">Consectetur the nunc semper pulvinar vulputate
                                                 neque.</p>
                                         </div>
                                     </div>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <div class="h-100 hover-animation-white">
-                                                <img src="assets/images/thumbs/service-details-img3.png" alt="Thumbnail"
-                                                    class="tw-rounded-xl w-100 h-100 object-fit-cover">
-                                            </div>
-                                        </div>
+                                </div>
+
+                                <!-- Right Column - Image -->
+                                <div class="col-sm-6">
+                                    <div class="h-100 hover-animation-white">
+                                        <img src="assets/images/thumbs/service-details-img3.png" alt="Thumbnail"
+                                            class="tw-rounded-xl w-100 h-100 object-fit-cover">
                                     </div>
                                 </div>
-
-                                 <div class="">
-                                    <h5 class="tw-mb-3 splitTextStyleOne">Sed ut perspiciatis unde omnis iste natus et
-                                    </h5>
-                                    <p class="text-neutral-600">Need something changed or is there something not quite
-                                        working the way you envisaged? Is your van a little old and tired and need
-                                        refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
-                                        industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                                        1500s, when an unknown printer took a galley of type and scrambled it to make a
-                                        type specimen book. It has survived not only five centuries, but also the leap
-                                        into electronic typesetting, remaining essentially unchanged.
-                                        </p>
-                                      <br>
-                                      <p>
-                                       working the way you envisaged? Is your van a little old and tired and need
-                                        refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
-                                        industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                                        1500s, when an unknown printer took a galley of type and scrambled it to make a
-                                        type specimen book. It has survived not only five centuries, but also the leap
-                                        into electronic typesetting, re
-                                        </p>
-                                      <br>
-                                      <p>
-                                       working the way you envisaged? Is your van a little old and tired and need
-                                        refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
-                                        industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                                        1500s, when an unknown printer took a galley of type and scrambled it to make a
-                                        type specimen book. It has survived not only five centuries, but also the leap
-                                        into electronic typesetting, re</p>
-                                
-                                </div>
-
-
                             </div>
+                        </div>
+
+                        <!-- Final Section -->
+                        <div class="">
+                            <h5 class="tw-mb-3 splitTextStyleOne">Sed ut perspiciatis unde omnis iste natus et</h5>
+                            <p class="text-neutral-600">Need something changed or is there something not quite
+                                working the way you envisaged? Is your van a little old and tired and need
+                                refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
+                                industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+                                1500s, when an unknown printer took a galley of type and scrambled it to make a
+                                type specimen book. It has survived not only five centuries, but also the leap
+                                into electronic typesetting, remaining essentially unchanged.</p>
+                            <br>
+                            <p>
+                                Working the way you envisaged? Is your van a little old and tired and need
+                                refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
+                                industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+                                1500s, when an unknown printer took a galley of type and scrambled it to make a
+                                type specimen book. It has survived not only five centuries, but also the leap
+                                into electronic typesetting, re
+                            </p>
+                            <br>
+                            <p>
+                                Working the way you envisaged? Is your van a little old and tired and need
+                                refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
+                                industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+                                1500s, when an unknown printer took a galley of type and scrambled it to make a
+                                type specimen book. It has survived not only five centuries, but also the leap
+                                into electronic typesetting, re
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
-        <!-- ======================== Services Details end ========================== -->
+        </div>
+    </div>
+</section>
+<!-- ======================== Services Details end ========================== -->
 
+<!-- ======================== Other Services Cards ========================== -->
+<section class="project py-100 mt-4">
+    <div class="container">
+        <!-- Section heading start -->
+        <div class="max-w-780-px text-center mx-auto tw-mb-10" data-aos="fade-up" data-aos-duration="800"
+                    data-aos-delay="100">
+                    <span class="bg-main-50 text-main-600 fw-medium tw-text-base rounded-pill tw-px-5 tw-py-1 tw-mb-6">
+                        Our Services</span>
+            <h2 class="splitTextStyleOne cursor-big">
+                Other Services
+            </h2>
+        </div>
+        <!-- Section heading end -->
+
+        <!-- Cards Grid -->
+        <div class="row justify-content-center">
+            <div class="col-12">
+                <div class="row g-4">
+                    
+                    <!-- Card 1 -->
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="bg-white tw-rounded-xl tw-p-6 image-double-animation h-100 common-shadow-5" data-aos="fade-up" data-aos-duration="800" data-aos-delay="100">
+                            <a href="project-details.html" class="tw-rounded-xl overflow-hidden d-block position-relative view-cursor-show">
+                                <img src="assets/images/thumbs/project-two-img1.png" alt="Article Data Analysis" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
+                                <img src="assets/images/thumbs/project-two-img1.png" alt="Article Data Analysis" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
+                                <span class="bg-main-two-600 text-heading tw-text-sm fw-medium tw-py-105 tw-px-5 rounded-pill position-absolute top-0 tw-start-0 tw-mt-3 tw-ms-3 z-1">
+                                    Marketing
+                                </span>
+                            </a>
+                            <div class="tw-pt-6">
+                                <h6 class="tw-mb-4">
+                                    <a href="project-details.html" class="text-heading hover-text-main-600">Article Data Analysis</a>
+                                </h6>
+                                <p class="text-neutral-500 fw-normal tw-text-lg">
+                                    Marketing agency committed to helping businesses grow online. With a team of skilled strategists, designers.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Card 2 -->
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="bg-white tw-rounded-xl tw-p-6 image-double-animation h-100 common-shadow-5" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
+                            <a href="project-details.html" class="tw-rounded-xl overflow-hidden d-block position-relative view-cursor-show">
+                                <img src="assets/images/thumbs/project-two-img2.png" alt="Lead Generation Made Easy" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
+                                <img src="assets/images/thumbs/project-two-img2.png" alt="Lead Generation Made Easy" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
+                                <span class="bg-main-two-600 text-heading tw-text-sm fw-medium tw-py-105 tw-px-5 rounded-pill position-absolute top-0 tw-start-0 tw-mt-3 tw-ms-3 z-1">
+                                    Marketing
+                                </span>
+                            </a>
+                            <div class="tw-pt-6">
+                                <h6 class="tw-mb-4">
+                                    <a href="project-details.html" class="text-heading hover-text-main-600">Lead Generation Made Easy</a>
+                                </h6>
+                                <p class="text-neutral-500 fw-normal tw-text-lg">
+                                    Marketing agency committed to helping businesses grow online. With a team of skilled strategists, designers.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Card 3 -->
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="bg-white tw-rounded-xl tw-p-6 image-double-animation h-100 common-shadow-5" data-aos="fade-up" data-aos-duration="800" data-aos-delay="300">
+                            <a href="project-details.html" class="tw-rounded-xl overflow-hidden d-block position-relative view-cursor-show">
+                                <img src="assets/images/thumbs/project-two-img3.png" alt="Content Strategy That Converts" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
+                                <img src="assets/images/thumbs/project-two-img3.png" alt="Content Strategy That Converts" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
+                                <span class="bg-main-two-600 text-heading tw-text-sm fw-medium tw-py-105 tw-px-5 rounded-pill position-absolute top-0 tw-start-0 tw-mt-3 tw-ms-3 z-1">
+                                    Marketing
+                                </span>
+                            </a>
+                            <div class="tw-pt-6">
+                                <h6 class="tw-mb-4">
+                                    <a href="project-details.html" class="text-heading hover-text-main-600">Content Strategy That Converts</a>
+                                </h6>
+                                <p class="text-neutral-500 fw-normal tw-text-lg">
+                                    Marketing agency committed to helping businesses grow online. With a team of skilled strategists, designers.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Card 4 -->
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="bg-white tw-rounded-xl tw-p-6 image-double-animation h-100 common-shadow-5" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">
+                            <a href="project-details.html" class="tw-rounded-xl overflow-hidden d-block position-relative view-cursor-show">
+                                <img src="assets/images/thumbs/project-two-img4.png" alt="YouTube Ads Performance Boost" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
+                                <img src="assets/images/thumbs/project-two-img4.png" alt="YouTube Ads Performance Boost" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
+                                <span class="bg-main-two-600 text-heading tw-text-sm fw-medium tw-py-105 tw-px-5 rounded-pill position-absolute top-0 tw-start-0 tw-mt-3 tw-ms-3 z-1">
+                                    Marketing
+                                </span>
+                            </a>
+                            <div class="tw-pt-6">
+                                <h6 class="tw-mb-4">
+                                    <a href="project-details.html" class="text-heading hover-text-main-600">YouTube Ads Performance Boost</a>
+                                </h6>
+                                <p class="text-neutral-500 fw-normal tw-text-lg">
+                                    Marketing agency committed to helping businesses grow online. With a team of skilled strategists, designers.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Card 5 -->
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="bg-white tw-rounded-xl tw-p-6 image-double-animation h-100 common-shadow-5" data-aos="fade-up" data-aos-duration="800" data-aos-delay="500">
+                            <a href="project-details.html" class="tw-rounded-xl overflow-hidden d-block position-relative view-cursor-show">
+                                <img src="assets/images/thumbs/project-two-img1.png" alt="Social Media Marketing" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
+                                <img src="assets/images/thumbs/project-two-img1.png" alt="Social Media Marketing" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
+                                <span class="bg-main-two-600 text-heading tw-text-sm fw-medium tw-py-105 tw-px-5 rounded-pill position-absolute top-0 tw-start-0 tw-mt-3 tw-ms-3 z-1">
+                                    Marketing
+                                </span>
+                            </a>
+                            <div class="tw-pt-6">
+                                <h6 class="tw-mb-4">
+                                    <a href="project-details.html" class="text-heading hover-text-main-600">Social Media Marketing</a>
+                                </h6>
+                                <p class="text-neutral-500 fw-normal tw-text-lg">
+                                    Marketing agency committed to helping businesses grow online. With a team of skilled strategists, designers.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Card 6 -->
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="bg-white tw-rounded-xl tw-p-6 image-double-animation h-100 common-shadow-5" data-aos="fade-up" data-aos-duration="800" data-aos-delay="600">
+                            <a href="project-details.html" class="tw-rounded-xl overflow-hidden d-block position-relative view-cursor-show">
+                                <img src="assets/images/thumbs/project-two-img2.png" alt="Email Campaign Optimization" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
+                                <img src="assets/images/thumbs/project-two-img2.png" alt="Email Campaign Optimization" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
+                                <span class="bg-main-two-600 text-heading tw-text-sm fw-medium tw-py-105 tw-px-5 rounded-pill position-absolute top-0 tw-start-0 tw-mt-3 tw-ms-3 z-1">
+                                    Marketing
+                                </span>
+                            </a>
+                            <div class="tw-pt-6">
+                                <h6 class="tw-mb-4">
+                                    <a href="project-details.html" class="text-heading hover-text-main-600">Email Campaign Optimization</a>
+                                </h6>
+                                <p class="text-neutral-500 fw-normal tw-text-lg">
+                                    Marketing agency committed to helping businesses grow online. With a team of skilled strategists, designers.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Card 7 -->
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="bg-white tw-rounded-xl tw-p-6 image-double-animation h-100 common-shadow-5" data-aos="fade-up" data-aos-duration="800" data-aos-delay="700">
+                            <a href="project-details.html" class="tw-rounded-xl overflow-hidden d-block position-relative view-cursor-show">
+                                <img src="assets/images/thumbs/project-two-img3.png" alt="SEO Optimization Services" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
+                                <img src="assets/images/thumbs/project-two-img3.png" alt="SEO Optimization Services" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
+                                <span class="bg-main-two-600 text-heading tw-text-sm fw-medium tw-py-105 tw-px-5 rounded-pill position-absolute top-0 tw-start-0 tw-mt-3 tw-ms-3 z-1">
+                                    Marketing
+                                </span>
+                            </a>
+                            <div class="tw-pt-6">
+                                <h6 class="tw-mb-4">
+                                    <a href="project-details.html" class="text-heading hover-text-main-600">SEO Optimization Services</a>
+                                </h6>
+                                <p class="text-neutral-500 fw-normal tw-text-lg">
+                                    Marketing agency committed to helping businesses grow online. With a team of skilled strategists, designers.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Card 8 -->
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="bg-white tw-rounded-xl tw-p-6 image-double-animation h-100 common-shadow-5" data-aos="fade-up" data-aos-duration="800" data-aos-delay="800">
+                            <a href="project-details.html" class="tw-rounded-xl overflow-hidden d-block position-relative view-cursor-show">
+                                <img src="assets/images/thumbs/project-two-img4.png" alt="Brand Identity Development" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
+                                <img src="assets/images/thumbs/project-two-img4.png" alt="Brand Identity Development" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
+                                <span class="bg-main-two-600 text-heading tw-text-sm fw-medium tw-py-105 tw-px-5 rounded-pill position-absolute top-0 tw-start-0 tw-mt-3 tw-ms-3 z-1">
+                                    Marketing
+                                </span>
+                            </a>
+                            <div class="tw-pt-6">
+                                <h6 class="tw-mb-4">
+                                    <a href="project-details.html" class="text-heading hover-text-main-600">Brand Identity Development</a>
+                                </h6>
+                                <p class="text-neutral-500 fw-normal tw-text-lg">
+                                    Marketing agency committed to helping businesses grow online. With a team of skilled strategists, designers.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ======================== Other Services Cards end ========================== -->
 
         <!-- =============================== FAQ section start ================================= -->
         <section class="faq tw-my-10">
