@@ -1,0 +1,15 @@
+.font {
+    &-heading {
+        font-family: var(--heading-font);
+    }
+    &-body {
+        font-family: var(--body-font);
+    }
+    &-playfair {
+        font-family: var(--playfair-font);
+    }
+}
+
+.text-balance {
+    text-wrap: balance;
+}
