@@ -2,28 +2,21 @@
 <html lang="en" class="fontSizeStyleOne">
 
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="description"
-    content="SEO, Social Media, and Digital Marketing Agency HTML Template. Fully responsive, creative design, and easy to customize. Ideal for SEO agencies, marketing firms, and startups.">
+<meta name="description"
+    content="Contact Tech In Box for digital marketing, SEO, website development, and software solutions. Speak with our experts today for business growth support. Call 9860303985.">
   <meta name="keywords"
-    content="SEO HTML Template, Digital Marketing, Social Media Agency, Marketing Template, Advertising Agency, Creative Agency, Bootstrap, Responsive">
+    content="contact Tech In Box, digital marketing support Nagpur, business inquiry Nagpur, marketing consultation Nagpur
+">
   <meta name="robots" content="INDEX,FOLLOW">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <!-- Title -->
-  <title>SEO, Social Media & Advertising Agency HTML Template | Creative & Responsive </title>
-  <!-- Favicon -->
-  <link rel="icon" href="assets/images/logo/favicon.png" type="image/png">
-  <!-- Bootstrap -->
-  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-  <!-- aos -->
-  <link rel="stylesheet" href="assets/css/aos.css">
-  <!-- swiper slider -->
-  <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
-  <!-- magnific popup -->
-  <link rel="stylesheet" href="assets/css/magnific-popup.css">
-  <!-- Main css -->
-  <link rel="stylesheet" href="assets/css/main.css">
+  <title>Contact Tech In Box – Best Digital Marketing Company in Nagpur | Get in Touch
+</title>
+
+
+  <?php include 'include/header.php'; ?>
 </head>
 
 <body>
@@ -676,38 +669,76 @@
 <!-- ==================== Breadcrumb End Here ==================== -->
 
         <!-- =========================== Contact section start =============================== -->
-        <section class="contact py-120">
+        <section class="contact py-100 tw-mt-10">
+
+                    <div class="container">
+              
+                <div class="row gy-5 align-items-center">
+                   
+          
+         <div class="">
+                    <h4 class="tw-mb-3 splitTextStyleOne">Get in Touch with Tech In Box
+</h4>
+                    <p class="text-neutral-600">Whether you’re ready to scale your business or need guidance choosing the right digital strategy, our team is here to help. We believe growth should be simple, transparent, and accessible — and it starts with a conversation.
+Our experts work closely with you to understand your goals, challenges, and expectations so we can create the perfect strategy customized for your business. Feel free to reach out — we’d love to hear your story and help you achieve success.
+</p>
+                    
+                    <br>
+                   
+                  </div>
+                  </div>
+                  
+                  </div>
+
+                      <!-- Section heading start -->
+            <div class="max-w-780-px text-center mx-auto tw-mb-10"
+              data-aos="fade-up" data-aos-duration="800" data-aos-delay="100">
+
+              <span class="bg-main-50 text-main-600 fw-medium tw-text-base rounded-pill tw-px-5 tw-py-1 tw-mb-6">
+                Contact Us
+              </span>
+
+              <h2 class="splitTextStyleOne cursor-big">
+                Reach Out to Us for
+                <span class="font-playfair fw-normal fst-italic">
+                  Digital Marketing Services in Nagpur
+                </span>
+              </h2>
+            </div>
+
+            <!-- Section heading end -->
             <div class="container">
+              
                 <div class="row gy-5 align-items-center">
                     <div class="col-lg-6">
+
+                      
                         <div class="">
-                            <div class="tw-mb-16 max-w-890-px" data-aos="fade-up" data-aos-duration="800"
+                            <div class=" max-w-890-px" data-aos="fade-up" data-aos-duration="800"
                                 data-aos-delay="0">
-                                <span
-                                    class="bg-main-100 text-main-600 fw-medium tw-text-base rounded-pill tw-px-5 tw-py-1 tw-mb-6">
-                                    Contact Us</span>
-                                <h2 class="splitTextStyleOne cursor-big">
-                                    Contact With Us for
-                                    <span class="font-playfair fw-normal font-playfair fst-italic">Your Any Help</span>
-                                </h2>
+                             
                                 <p class="tw-text-lg text-neutral-500 tw-mt-6">
-                                    Meet our talented members, a group of creative minds who bring innovative ideas to
-                                    life. Each team member excels in their field, driving excellence and creativity in
-                                    every project.
+                                  <h4 class="tw-mb-3 splitTextStyleOne">We’re Here to Support You
+
+</h4>
+                                    Our team is dedicated to providing quick assistance, project support, and reliable communication. No waiting. No confusion. Just real help from real people.
+
                                 </p>
                             </div>
 
-                            <div class="row gy-5">
+                            <div class="row gy-5 p-4">
                                 <div class="col-sm-6" data-aos="fade-up" data-aos-duration="800" data-aos-delay="100">
                                     <div class="">
                                         <h5 class="tw-mb-8">Call Center: </h5>
                                         <div class="d-flex flex-column tw-gap-2">
+                                           
                                             <a href="tel:+49030939900"
-                                                class="text-neutral-500 hover-text-main-600 hover-underline">+49 030
-                                                9399 00</a>
-                                            <a href="tel:+49030939900"
-                                                class="text-neutral-500 hover-text-main-600 hover-underline">+49 030
-                                                9399 00</a>
+                                                class="text-neutral-500 hover-text-main-600 hover-underline">9860303985
+</a>
+<a href="tel:+49030939900"
+                                                class="text-neutral-500 hover-text-main-600 hover-underline">9175462385
+</a>
+
                                         </div>
                                     </div>
                                 </div>
@@ -715,51 +746,63 @@
                                     <div class="">
                                         <h5 class="tw-mb-8">Our Location: </h5>
                                         <div class="d-flex flex-column tw-gap-2">
-                                            <p class="text-neutral-500">Old Westbury
-                                                256, New York 11201, United States</p>
+                                            <p class="text-neutral-500"> Tech In Box LLP,
+                                              10 No, Puliya Square, Satpratap Complex, Kamptee Rd, opp. to Gulati Petrol Pump, Nagpur, Maharashtra 440014
+ 
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-sm-6" data-aos="fade-up" data-aos-duration="800" data-aos-delay="100">
                                     <div class="">
                                         <h5 class="tw-mb-8">Our social: </h5>
-                                        <ul
-                                            class="pagination d-flex align-items-center tw-gap-7 justify-content-start flex-wrap">
-                                            <li>
-                                                <a href="javascript:void(0)"
-                                                    class="tw-text-2xl text-heading hover-text-main-600">
-                                                    <i class="ph-bold ph-facebook-logo"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="javascript:void(0)"
-                                                    class="tw-text-2xl text-heading hover-text-main-600">
-                                                    <i class="ph-bold ph-twitter-logo"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="javascript:void(0)"
-                                                    class="tw-text-2xl text-heading hover-text-main-600">
-                                                    <i class="ph-bold ph-instagram-logo"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="javascript:void(0)"
-                                                    class="tw-text-2xl text-heading hover-text-main-600">
-                                                    <i class="ph-bold ph-pinterest-logo"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
+                                        <ul class="pagination d-flex align-items-center tw-gap-7 justify-content-start flex-wrap">
+    <!-- Facebook -->
+    <li>
+        <a href="https://www.facebook.com/techinbox.nagpur"
+           target="_blank" rel="noopener"
+           class="tw-text-2xl text-heading hover-text-main-600">
+            <i class="ph-bold ph-facebook-logo"></i>
+        </a>
+    </li>
+
+    <!-- Instagram -->
+    <li>
+        <a href="https://www.instagram.com/techin.box?igsh=NXVmZjhteTFhYnFy"
+           target="_blank" rel="noopener"
+           class="tw-text-2xl text-heading hover-text-main-600">
+            <i class="ph-bold ph-instagram-logo"></i>
+        </a>
+    </li>
+
+    <!-- LinkedIn (use official page when you have it) -->
+    <li>
+        <a href="https://in.linkedin.com/company/techinbox"
+           target="_blank" rel="noopener"
+           class="tw-text-2xl text-heading hover-text-main-600">
+            <i class="ph-bold ph-linkedin-logo"></i>
+        </a>
+    </li>
+
+    <!-- YouTube -->
+    <li>
+        <a href="https://www.youtube.com/@techinboxofficial/"
+           target="_blank" rel="noopener"
+           class="tw-text-2xl text-heading hover-text-main-600">
+            <i class="ph-bold ph-youtube-logo"></i>
+        </a>
+    </li>
+</ul>
+
                                     </div>
                                 </div>
                                 <div class="col-sm-6" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
                                     <div class="">
                                         <h5 class="tw-mb-8">Our Email: </h5>
                                         <div class="d-flex flex-column tw-gap-2">
-                                            <a href="mailto:hellologiku@gmail.com"
-                                                class="text-neutral-500 hover-text-main-600 hover-underline">hellologiku@gmail.com</a>
-                                            <a href="mailto:supportlogiku@gmail.com"
-                                                class="text-neutral-500 hover-text-main-600 hover-underline">supportlogiku@gmail.com</a>
+                                            <a href="support@techinbox.in"
+                                                class="text-neutral-500 hover-text-main-600 hover-underline">support@techinbox.in</a>
+                                            <a href="hello@techinbox.in"
+                                                class="text-neutral-500 hover-text-main-600 hover-underline">"hello@techinbox.in"</a>
                                         </div>
                                     </div>
                                 </div>
@@ -828,9 +871,9 @@
 
 
         <!-- Google Map start -->
-        <div class="tw-h-402-px">
+        <div class="tw-h-402-px tw-mt-10">
             <iframe
-                src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d18594861.431429405!2d25.097591251485795!3d54.811518433582705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1ssea!5e0!3m2!1sen!2sbd!4v1752124108423!5m2!1sen!2sbd"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3720.540997527522!2d79.09347397526052!3d21.170657380514406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd4bfbccd1dd535%3A0xbf8ea636b84a61a4!2sTech%20In%20Box%20-%20Digital%20Marketing%20Company%20%26%20SEO%20Services%20In%20Nagpur!5e0!3m2!1sen!2sin!4v1764927793005!5m2!1sen!2sin"
                 class="w-100 h-100"></iframe>
         </div>
         <!-- Google Map end -->

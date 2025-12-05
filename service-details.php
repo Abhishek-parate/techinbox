@@ -10,7 +10,7 @@
   <meta name="robots" content="INDEX,FOLLOW">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <!-- Title -->
   <title>SEO, Social Media & Advertising Agency HTML Template | Creative & Responsive </title>
 
@@ -78,1347 +78,1142 @@
   <!-- Search Popup End -->
 
   <!-- ==================== Mobile Menu Start Here ==================== -->
-<div class="mobile-menu d-lg-none d-block scroll-sm position-fixed bg-white tw-w-300-px tw-h-screen overflow-y-auto tw-p-6 tw-z-999 tw--translate-x-full tw-pb-68 ">
+  <div class="mobile-menu d-lg-none d-block scroll-sm position-fixed bg-white tw-w-300-px tw-h-screen overflow-y-auto tw-p-6 tw-z-999 tw--translate-x-full tw-pb-68 ">
 
-    <button type="button" class="close-button position-absolute tw-end-0 top-0 tw-me-2 tw-mt-2 tw-w-605 tw-h-605 rounded-circle d-flex justify-content-center align-items-center text-neutral-900 bg-neutral-200 hover-bg-neutral-900 hover-text-white"> 
-        <i class="ph ph-x"></i>
+    <button type="button" class="close-button position-absolute tw-end-0 top-0 tw-me-2 tw-mt-2 tw-w-605 tw-h-605 rounded-circle d-flex justify-content-center align-items-center text-neutral-900 bg-neutral-200 hover-bg-neutral-900 hover-text-white">
+      <i class="ph ph-x"></i>
     </button>
 
     <div class="mobile-menu__inner">
-        <a href="index.html" class="mobile-menu__logo">
-            <img src="assets/images/logo/logo.png" alt="Logo">
-        </a>
-        <div class="mobile-menu__menu">
-            <!-- Nav menu Start -->
-<ul class="nav-menu d-lg-flex align-items-center nav-menu--mobile d-block tw-mt-8">
-  <li class="nav-menu__item has-submenu activePage">
-    <a href="javascript:void(0)" class="nav-menu__link tw-pe-5 text-heading tw-py-9 fw-medium w-100">Home</a>
-
-    <!-- mega menu start -->
-<div
-  class="mega-menu tw-p-6 tw-rounded-lg scroll-sm nav-submenu position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md tw-z-99">
-  <div class="row g-4 row-cols-1 row-cols-lg-3 row-cols-xl-4">
-    <div class="col">
-      <div class="mega-menu-item group-item">
-        <div class="position-relative border border-neutral-200 tw-rounded-lg overflow-hidden">
-          <a href="index.html" class="d-block">
-            <img src="assets/images/thumbs/home-img1.png" alt="Home Page Image"
-              class="tw-h-440-px w-100 object-fit-cover object-top">
-          </a>
-          <div class="d-lg-flex d-none">
-            <div
-              class="mega-menu-item__overlay position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1 tw-scale-08 group-hover-item-scale-1 tw-rounded-lg pointer-event-none">
-            </div>
-            <div
-              class="mega-menu-item__buttons position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center flex-column tw-gap-4 tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1">
-              <a href="index.html" target="_blank"
-                class="btn btn-main hover-style-one button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-705 group active--translate-y-2 tw-p-1 tw-ps-8 rounded-pill group-item"
-                data-block="button">
-                <span class="button__flair"></span>
-                <span class="button__label">Live Preview</span>
-                <span
-                  class="tw-w-12 tw-h-12 bg-white text-main-600 tw-text-xl rounded-circle d-flex justify-content-center align-items-center position-relative tw-duration-500">
-                  <i class="ph-bold ph-arrow-right tw-rotate--45-deg group-hover-item-rotate-0-deg tw-duration-300"></i>
-                </span>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="tw-mt-4 text-center">
-          <a href="index.html"
-            class="text-heading hover-text-main-600 fw-semibold tw-text-md text-capitalize line-clamp-1">SEO & Digital
-            Marketing Agency</a>
-        </div>
-      </div>
-    </div>
-    <div class="col">
-      <div class="mega-menu-item group-item">
-        <div class="position-relative border border-neutral-200 tw-rounded-lg overflow-hidden">
-          <a href="index-2.html" class="d-block">
-            <img src="assets/images/thumbs/home-img2.png" alt="Home Page Image"
-              class="tw-h-440-px w-100 object-fit-cover object-top">
-          </a>
-          <div class="d-lg-flex d-none">
-            <div
-              class="mega-menu-item__overlay position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1 tw-scale-08 group-hover-item-scale-1 tw-rounded-lg pointer-event-none">
-            </div>
-            <div
-              class="mega-menu-item__buttons position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center flex-column tw-gap-4 tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1">
-              <a href="index-2.html" target="_blank"
-                class="btn btn-main hover-style-one button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-705 group active--translate-y-2 tw-p-1 tw-ps-8 rounded-pill group-item"
-                data-block="button">
-                <span class="button__flair"></span>
-                <span class="button__label">Live Preview</span>
-                <span
-                  class="tw-w-12 tw-h-12 bg-white text-main-600 tw-text-xl rounded-circle d-flex justify-content-center align-items-center position-relative tw-duration-500">
-                  <i class="ph-bold ph-arrow-right tw-rotate--45-deg group-hover-item-rotate-0-deg tw-duration-300"></i>
-                </span>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="tw-mt-4 text-center">
-          <a href="index-2.html"
-            class="text-heading hover-text-main-600 fw-semibold tw-text-md text-capitalize line-clamp-1">Social Media
-            Marketing Agency</a>
-        </div>
-      </div>
-    </div>
-    <div class="col">
-      <div class="mega-menu-item group-item">
-        <div class="position-relative border border-neutral-200 tw-rounded-lg overflow-hidden">
-          <a href="index-3.html" class="d-block">
-            <img src="assets/images/thumbs/home-img3.png" alt="Home Page Image"
-              class="tw-h-440-px w-100 object-fit-cover object-top">
-          </a>
-          <div class="d-lg-flex d-none">
-            <div
-              class="mega-menu-item__overlay position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1 tw-scale-08 group-hover-item-scale-1 tw-rounded-lg pointer-event-none">
-            </div>
-            <div
-              class="mega-menu-item__buttons position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center flex-column tw-gap-4 tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1">
-              <a href="index-3.html" target="_blank"
-                class="btn btn-main hover-style-one button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-705 group active--translate-y-2 tw-p-1 tw-ps-8 rounded-pill group-item"
-                data-block="button">
-                <span class="button__flair"></span>
-                <span class="button__label">Live Preview</span>
-                <span
-                  class="tw-w-12 tw-h-12 bg-white text-main-600 tw-text-xl rounded-circle d-flex justify-content-center align-items-center position-relative tw-duration-500">
-                  <i class="ph-bold ph-arrow-right tw-rotate--45-deg group-hover-item-rotate-0-deg tw-duration-300"></i>
-                </span>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="tw-mt-4 text-center">
-          <a href="index-3.html"
-            class="text-heading hover-text-main-600 fw-semibold tw-text-md text-capitalize line-clamp-1">Advertising
-            Agency
-          </a>
-        </div>
-      </div>
-    </div>
-    <div class="col">
-      <div class="mega-menu-item group-item">
-        <div class="position-relative border border-neutral-200 tw-rounded-lg overflow-hidden">
-          <a href="index-4.html" class="d-block">
-            <img src="assets/images/thumbs/home-img4.png" alt="Home Page Image"
-              class="tw-h-440-px w-100 object-fit-cover object-top">
-          </a>
-          <div class="d-lg-flex d-none">
-            <div
-              class="mega-menu-item__overlay position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1 tw-scale-08 group-hover-item-scale-1 tw-rounded-lg pointer-event-none">
-            </div>
-            <div
-              class="mega-menu-item__buttons position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center flex-column tw-gap-4 tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1">
-              <a href="index-4.html" target="_blank"
-                class="btn btn-main hover-style-one button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-705 group active--translate-y-2 tw-p-1 tw-ps-8 rounded-pill group-item"
-                data-block="button">
-                <span class="button__flair"></span>
-                <span class="button__label">Live Preview</span>
-                <span
-                  class="tw-w-12 tw-h-12 bg-white text-main-600 tw-text-xl rounded-circle d-flex justify-content-center align-items-center position-relative tw-duration-500">
-                  <i class="ph-bold ph-arrow-right tw-rotate--45-deg group-hover-item-rotate-0-deg tw-duration-300"></i>
-                </span>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="tw-mt-4 text-center">
-          <a href="index-4.html"
-            class="text-heading hover-text-main-600 fw-semibold tw-text-md text-capitalize line-clamp-1">IT Solution
-          </a>
-        </div>
-      </div>
-    </div>
-    <div class="col">
-      <div class="mega-menu-item group-item">
-        <div class="position-relative border border-neutral-200 tw-rounded-lg overflow-hidden">
-          <span class="d-block">
-            <img src="assets/images/thumbs/coming-soon-img.png" alt="Home Page Image"
-              class="tw-h-440-px w-100 object-fit-cover object-top">
-          </span>
-        </div>
-        <div class="tw-mt-4 text-center">
-          <span class="text-heading fw-semibold tw-text-md text-capitalize line-clamp-1">Home 5</span>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- mega menu end -->
-  </li>
-  <li class="nav-menu__item has-submenu position-relative">
-    <a href="javascript:void(0)" class="nav-menu__link tw-pe-5 text-heading tw-py-9 fw-medium w-100">Services</a>
-    <ul
-      class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-z-99">
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="services.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
-          Services
-        </a>
-      </li>
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="service-details.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">Services
-          Details</a>
-      </li>
-    </ul>
-  </li>
-  <li class="nav-menu__item has-submenu position-relative">
-    <a href="javascript:void(0)" class="nav-menu__link tw-pe-5 text-heading tw-py-9 fw-medium w-100">Pages</a>
-    <ul
-      class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-z-99">
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="about.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
-          About Us</a>
-      </li>
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="projects.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
-          Project</a>
-      </li>
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="project-details.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
-          Project Details</a>
-      </li>
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="pricing-plan.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
-          Pricing Plan</a>
-      </li>
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="faq.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
-          FAQ</a>
-      </li>
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="team.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
-          Team</a>
-      </li>
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="team-details.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
-          Team Details</a>
-      </li>
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="404.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">404
-          Page</a>
-      </li>
-    </ul>
-  </li>
-  <li class="nav-menu__item has-submenu position-relative">
-    <a href="javascript:void(0)" class="nav-menu__link tw-pe-5 text-heading tw-py-9 fw-medium w-100">News</a>
-    <ul
-      class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-z-99">
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="blog.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
-          Latest News </a>
-      </li>
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="blog-details.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
-          News Details</a>
-      </li>
-    </ul>
-  </li>
-  <li class="nav-menu__item">
-    <a href="contact.html" class="nav-menu__link text-heading tw-py-9 fw-medium w-100">Contact</a>
-  </li>
-</ul>
-<!-- Nav menu End  -->
-        </div>
-    </div>
-</div>
-<!-- ==================== Mobile Menu End Here ==================== -->
-
-<!-- ==================== Header Start Here ==================== -->
-<header class="header tw-transition-all tw-z-99 headerAbsoluteStyle menuColorWhite menuPositionEnd fixedHeaderBlack border-line-full border-bottom border-white-22">
-  <div class="container max-w-1520-px">
-    <nav
-      class="d-flex align-items-center justify-content-between position-relative"
-    >
-      <!-- Logo Start -->
-      <div class="logo">
-        <a href="index.html" class="link">
-          <img
-            src="assets/images/logo/logo.png"
-            alt="Logo"
-            class="max-w-200-px"
-          >
-        </a>
-      </div>
-      <!-- Logo End  -->
-
-      <!-- Menu Start  -->
-      <div class="header-menu d-lg-block d-none">
+      <a href="index.html" class="mobile-menu__logo">
+        <img src="assets/images/logo/logo.png" alt="Logo">
+      </a>
+      <div class="mobile-menu__menu">
         <!-- Nav menu Start -->
-<ul class="nav-menu d-lg-flex align-items-center tw-gap-6">
-  <li class="nav-menu__item has-submenu activePage">
-    <a href="javascript:void(0)" class="nav-menu__link tw-pe-5 text-heading tw-py-9 fw-medium w-100">Home</a>
+        <ul class="nav-menu d-lg-flex align-items-center nav-menu--mobile d-block tw-mt-8">
+          <li class="nav-menu__item has-submenu activePage">
+            <a href="javascript:void(0)" class="nav-menu__link tw-pe-5 text-heading tw-py-9 fw-medium w-100">Home</a>
 
-    <!-- mega menu start -->
-<div
-  class="mega-menu tw-p-6 tw-rounded-lg scroll-sm nav-submenu position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md tw-z-99">
-  <div class="row g-4 row-cols-1 row-cols-lg-3 row-cols-xl-4">
-    <div class="col">
-      <div class="mega-menu-item group-item">
-        <div class="position-relative border border-neutral-200 tw-rounded-lg overflow-hidden">
-          <a href="index.html" class="d-block">
-            <img src="assets/images/thumbs/home-img1.png" alt="Home Page Image"
-              class="tw-h-440-px w-100 object-fit-cover object-top">
-          </a>
-          <div class="d-lg-flex d-none">
+            <!-- mega menu start -->
             <div
-              class="mega-menu-item__overlay position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1 tw-scale-08 group-hover-item-scale-1 tw-rounded-lg pointer-event-none">
+              class="mega-menu tw-p-6 tw-rounded-lg scroll-sm nav-submenu position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md tw-z-99">
+              <div class="row g-4 row-cols-1 row-cols-lg-3 row-cols-xl-4">
+                <div class="col">
+                  <div class="mega-menu-item group-item">
+                    <div class="position-relative border border-neutral-200 tw-rounded-lg overflow-hidden">
+                      <a href="index.html" class="d-block">
+                        <img src="assets/images/thumbs/home-img1.png" alt="Home Page Image"
+                          class="tw-h-440-px w-100 object-fit-cover object-top">
+                      </a>
+                      <div class="d-lg-flex d-none">
+                        <div
+                          class="mega-menu-item__overlay position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1 tw-scale-08 group-hover-item-scale-1 tw-rounded-lg pointer-event-none">
+                        </div>
+                        <div
+                          class="mega-menu-item__buttons position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center flex-column tw-gap-4 tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1">
+                          <a href="index.html" target="_blank"
+                            class="btn btn-main hover-style-one button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-705 group active--translate-y-2 tw-p-1 tw-ps-8 rounded-pill group-item"
+                            data-block="button">
+                            <span class="button__flair"></span>
+                            <span class="button__label">Live Preview</span>
+                            <span
+                              class="tw-w-12 tw-h-12 bg-white text-main-600 tw-text-xl rounded-circle d-flex justify-content-center align-items-center position-relative tw-duration-500">
+                              <i class="ph-bold ph-arrow-right tw-rotate--45-deg group-hover-item-rotate-0-deg tw-duration-300"></i>
+                            </span>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="tw-mt-4 text-center">
+                      <a href="index.html"
+                        class="text-heading hover-text-main-600 fw-semibold tw-text-md text-capitalize line-clamp-1">SEO & Digital
+                        Marketing Agency</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="mega-menu-item group-item">
+                    <div class="position-relative border border-neutral-200 tw-rounded-lg overflow-hidden">
+                      <a href="index-2.html" class="d-block">
+                        <img src="assets/images/thumbs/home-img2.png" alt="Home Page Image"
+                          class="tw-h-440-px w-100 object-fit-cover object-top">
+                      </a>
+                      <div class="d-lg-flex d-none">
+                        <div
+                          class="mega-menu-item__overlay position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1 tw-scale-08 group-hover-item-scale-1 tw-rounded-lg pointer-event-none">
+                        </div>
+                        <div
+                          class="mega-menu-item__buttons position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center flex-column tw-gap-4 tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1">
+                          <a href="index-2.html" target="_blank"
+                            class="btn btn-main hover-style-one button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-705 group active--translate-y-2 tw-p-1 tw-ps-8 rounded-pill group-item"
+                            data-block="button">
+                            <span class="button__flair"></span>
+                            <span class="button__label">Live Preview</span>
+                            <span
+                              class="tw-w-12 tw-h-12 bg-white text-main-600 tw-text-xl rounded-circle d-flex justify-content-center align-items-center position-relative tw-duration-500">
+                              <i class="ph-bold ph-arrow-right tw-rotate--45-deg group-hover-item-rotate-0-deg tw-duration-300"></i>
+                            </span>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="tw-mt-4 text-center">
+                      <a href="index-2.html"
+                        class="text-heading hover-text-main-600 fw-semibold tw-text-md text-capitalize line-clamp-1">Social Media
+                        Marketing Agency</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="mega-menu-item group-item">
+                    <div class="position-relative border border-neutral-200 tw-rounded-lg overflow-hidden">
+                      <a href="index-3.html" class="d-block">
+                        <img src="assets/images/thumbs/home-img3.png" alt="Home Page Image"
+                          class="tw-h-440-px w-100 object-fit-cover object-top">
+                      </a>
+                      <div class="d-lg-flex d-none">
+                        <div
+                          class="mega-menu-item__overlay position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1 tw-scale-08 group-hover-item-scale-1 tw-rounded-lg pointer-event-none">
+                        </div>
+                        <div
+                          class="mega-menu-item__buttons position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center flex-column tw-gap-4 tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1">
+                          <a href="index-3.html" target="_blank"
+                            class="btn btn-main hover-style-one button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-705 group active--translate-y-2 tw-p-1 tw-ps-8 rounded-pill group-item"
+                            data-block="button">
+                            <span class="button__flair"></span>
+                            <span class="button__label">Live Preview</span>
+                            <span
+                              class="tw-w-12 tw-h-12 bg-white text-main-600 tw-text-xl rounded-circle d-flex justify-content-center align-items-center position-relative tw-duration-500">
+                              <i class="ph-bold ph-arrow-right tw-rotate--45-deg group-hover-item-rotate-0-deg tw-duration-300"></i>
+                            </span>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="tw-mt-4 text-center">
+                      <a href="index-3.html"
+                        class="text-heading hover-text-main-600 fw-semibold tw-text-md text-capitalize line-clamp-1">Advertising
+                        Agency
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="mega-menu-item group-item">
+                    <div class="position-relative border border-neutral-200 tw-rounded-lg overflow-hidden">
+                      <a href="index-4.html" class="d-block">
+                        <img src="assets/images/thumbs/home-img4.png" alt="Home Page Image"
+                          class="tw-h-440-px w-100 object-fit-cover object-top">
+                      </a>
+                      <div class="d-lg-flex d-none">
+                        <div
+                          class="mega-menu-item__overlay position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1 tw-scale-08 group-hover-item-scale-1 tw-rounded-lg pointer-event-none">
+                        </div>
+                        <div
+                          class="mega-menu-item__buttons position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center flex-column tw-gap-4 tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1">
+                          <a href="index-4.html" target="_blank"
+                            class="btn btn-main hover-style-one button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-705 group active--translate-y-2 tw-p-1 tw-ps-8 rounded-pill group-item"
+                            data-block="button">
+                            <span class="button__flair"></span>
+                            <span class="button__label">Live Preview</span>
+                            <span
+                              class="tw-w-12 tw-h-12 bg-white text-main-600 tw-text-xl rounded-circle d-flex justify-content-center align-items-center position-relative tw-duration-500">
+                              <i class="ph-bold ph-arrow-right tw-rotate--45-deg group-hover-item-rotate-0-deg tw-duration-300"></i>
+                            </span>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="tw-mt-4 text-center">
+                      <a href="index-4.html"
+                        class="text-heading hover-text-main-600 fw-semibold tw-text-md text-capitalize line-clamp-1">IT Solution
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="mega-menu-item group-item">
+                    <div class="position-relative border border-neutral-200 tw-rounded-lg overflow-hidden">
+                      <span class="d-block">
+                        <img src="assets/images/thumbs/coming-soon-img.png" alt="Home Page Image"
+                          class="tw-h-440-px w-100 object-fit-cover object-top">
+                      </span>
+                    </div>
+                    <div class="tw-mt-4 text-center">
+                      <span class="text-heading fw-semibold tw-text-md text-capitalize line-clamp-1">Home 5</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
-            <div
-              class="mega-menu-item__buttons position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center flex-column tw-gap-4 tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1">
-              <a href="index.html" target="_blank"
-                class="btn btn-main hover-style-one button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-705 group active--translate-y-2 tw-p-1 tw-ps-8 rounded-pill group-item"
-                data-block="button">
-                <span class="button__flair"></span>
-                <span class="button__label">Live Preview</span>
-                <span
-                  class="tw-w-12 tw-h-12 bg-white text-main-600 tw-text-xl rounded-circle d-flex justify-content-center align-items-center position-relative tw-duration-500">
-                  <i class="ph-bold ph-arrow-right tw-rotate--45-deg group-hover-item-rotate-0-deg tw-duration-300"></i>
-                </span>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="tw-mt-4 text-center">
-          <a href="index.html"
-            class="text-heading hover-text-main-600 fw-semibold tw-text-md text-capitalize line-clamp-1">SEO & Digital
-            Marketing Agency</a>
-        </div>
-      </div>
-    </div>
-    <div class="col">
-      <div class="mega-menu-item group-item">
-        <div class="position-relative border border-neutral-200 tw-rounded-lg overflow-hidden">
-          <a href="index-2.html" class="d-block">
-            <img src="assets/images/thumbs/home-img2.png" alt="Home Page Image"
-              class="tw-h-440-px w-100 object-fit-cover object-top">
-          </a>
-          <div class="d-lg-flex d-none">
-            <div
-              class="mega-menu-item__overlay position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1 tw-scale-08 group-hover-item-scale-1 tw-rounded-lg pointer-event-none">
-            </div>
-            <div
-              class="mega-menu-item__buttons position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center flex-column tw-gap-4 tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1">
-              <a href="index-2.html" target="_blank"
-                class="btn btn-main hover-style-one button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-705 group active--translate-y-2 tw-p-1 tw-ps-8 rounded-pill group-item"
-                data-block="button">
-                <span class="button__flair"></span>
-                <span class="button__label">Live Preview</span>
-                <span
-                  class="tw-w-12 tw-h-12 bg-white text-main-600 tw-text-xl rounded-circle d-flex justify-content-center align-items-center position-relative tw-duration-500">
-                  <i class="ph-bold ph-arrow-right tw-rotate--45-deg group-hover-item-rotate-0-deg tw-duration-300"></i>
-                </span>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="tw-mt-4 text-center">
-          <a href="index-2.html"
-            class="text-heading hover-text-main-600 fw-semibold tw-text-md text-capitalize line-clamp-1">Social Media
-            Marketing Agency</a>
-        </div>
-      </div>
-    </div>
-    <div class="col">
-      <div class="mega-menu-item group-item">
-        <div class="position-relative border border-neutral-200 tw-rounded-lg overflow-hidden">
-          <a href="index-3.html" class="d-block">
-            <img src="assets/images/thumbs/home-img3.png" alt="Home Page Image"
-              class="tw-h-440-px w-100 object-fit-cover object-top">
-          </a>
-          <div class="d-lg-flex d-none">
-            <div
-              class="mega-menu-item__overlay position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1 tw-scale-08 group-hover-item-scale-1 tw-rounded-lg pointer-event-none">
-            </div>
-            <div
-              class="mega-menu-item__buttons position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center flex-column tw-gap-4 tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1">
-              <a href="index-3.html" target="_blank"
-                class="btn btn-main hover-style-one button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-705 group active--translate-y-2 tw-p-1 tw-ps-8 rounded-pill group-item"
-                data-block="button">
-                <span class="button__flair"></span>
-                <span class="button__label">Live Preview</span>
-                <span
-                  class="tw-w-12 tw-h-12 bg-white text-main-600 tw-text-xl rounded-circle d-flex justify-content-center align-items-center position-relative tw-duration-500">
-                  <i class="ph-bold ph-arrow-right tw-rotate--45-deg group-hover-item-rotate-0-deg tw-duration-300"></i>
-                </span>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="tw-mt-4 text-center">
-          <a href="index-3.html"
-            class="text-heading hover-text-main-600 fw-semibold tw-text-md text-capitalize line-clamp-1">Advertising
-            Agency
-          </a>
-        </div>
-      </div>
-    </div>
-    <div class="col">
-      <div class="mega-menu-item group-item">
-        <div class="position-relative border border-neutral-200 tw-rounded-lg overflow-hidden">
-          <a href="index-4.html" class="d-block">
-            <img src="assets/images/thumbs/home-img4.png" alt="Home Page Image"
-              class="tw-h-440-px w-100 object-fit-cover object-top">
-          </a>
-          <div class="d-lg-flex d-none">
-            <div
-              class="mega-menu-item__overlay position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1 tw-scale-08 group-hover-item-scale-1 tw-rounded-lg pointer-event-none">
-            </div>
-            <div
-              class="mega-menu-item__buttons position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center flex-column tw-gap-4 tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1">
-              <a href="index-4.html" target="_blank"
-                class="btn btn-main hover-style-one button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-705 group active--translate-y-2 tw-p-1 tw-ps-8 rounded-pill group-item"
-                data-block="button">
-                <span class="button__flair"></span>
-                <span class="button__label">Live Preview</span>
-                <span
-                  class="tw-w-12 tw-h-12 bg-white text-main-600 tw-text-xl rounded-circle d-flex justify-content-center align-items-center position-relative tw-duration-500">
-                  <i class="ph-bold ph-arrow-right tw-rotate--45-deg group-hover-item-rotate-0-deg tw-duration-300"></i>
-                </span>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="tw-mt-4 text-center">
-          <a href="index-4.html"
-            class="text-heading hover-text-main-600 fw-semibold tw-text-md text-capitalize line-clamp-1">IT Solution
-          </a>
-        </div>
-      </div>
-    </div>
-    <div class="col">
-      <div class="mega-menu-item group-item">
-        <div class="position-relative border border-neutral-200 tw-rounded-lg overflow-hidden">
-          <span class="d-block">
-            <img src="assets/images/thumbs/coming-soon-img.png" alt="Home Page Image"
-              class="tw-h-440-px w-100 object-fit-cover object-top">
-          </span>
-        </div>
-        <div class="tw-mt-4 text-center">
-          <span class="text-heading fw-semibold tw-text-md text-capitalize line-clamp-1">Home 5</span>
-        </div>
+            <!-- mega menu end -->
+          </li>
+          <li class="nav-menu__item has-submenu position-relative">
+            <a href="javascript:void(0)" class="nav-menu__link tw-pe-5 text-heading tw-py-9 fw-medium w-100">Services</a>
+            <ul
+              class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-z-99">
+              <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                <a href="services.html"
+                  class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                  Services
+                </a>
+              </li>
+              <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                <a href="service-details.html"
+                  class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">Services
+                  Details</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-menu__item has-submenu position-relative">
+            <a href="javascript:void(0)" class="nav-menu__link tw-pe-5 text-heading tw-py-9 fw-medium w-100">Pages</a>
+            <ul
+              class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-z-99">
+              <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                <a href="about.html"
+                  class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                  About Us</a>
+              </li>
+              <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                <a href="projects.html"
+                  class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                  Project</a>
+              </li>
+              <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                <a href="project-details.html"
+                  class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                  Project Details</a>
+              </li>
+              <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                <a href="pricing-plan.html"
+                  class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                  Pricing Plan</a>
+              </li>
+              <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                <a href="faq.html"
+                  class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                  FAQ</a>
+              </li>
+              <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                <a href="team.html"
+                  class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                  Team</a>
+              </li>
+              <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                <a href="team-details.html"
+                  class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                  Team Details</a>
+              </li>
+              <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                <a href="404.html"
+                  class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">404
+                  Page</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-menu__item has-submenu position-relative">
+            <a href="javascript:void(0)" class="nav-menu__link tw-pe-5 text-heading tw-py-9 fw-medium w-100">News</a>
+            <ul
+              class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-z-99">
+              <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                <a href="blog.html"
+                  class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                  Latest News </a>
+              </li>
+              <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                <a href="blog-details.html"
+                  class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                  News Details</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-menu__item">
+            <a href="contact.html" class="nav-menu__link text-heading tw-py-9 fw-medium w-100">Contact</a>
+          </li>
+        </ul>
+        <!-- Nav menu End  -->
       </div>
     </div>
   </div>
-</div>
-<!-- mega menu end -->
-  </li>
-  <li class="nav-menu__item has-submenu position-relative">
-    <a href="javascript:void(0)" class="nav-menu__link tw-pe-5 text-heading tw-py-9 fw-medium w-100">Services</a>
-    <ul
-      class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-z-99">
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="services.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
-          Services
-        </a>
-      </li>
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="service-details.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">Services
-          Details</a>
-      </li>
-    </ul>
-  </li>
-  <li class="nav-menu__item has-submenu position-relative">
-    <a href="javascript:void(0)" class="nav-menu__link tw-pe-5 text-heading tw-py-9 fw-medium w-100">Pages</a>
-    <ul
-      class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-z-99">
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="about.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
-          About Us</a>
-      </li>
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="projects.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
-          Project</a>
-      </li>
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="project-details.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
-          Project Details</a>
-      </li>
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="pricing-plan.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
-          Pricing Plan</a>
-      </li>
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="faq.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
-          FAQ</a>
-      </li>
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="team.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
-          Team</a>
-      </li>
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="team-details.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
-          Team Details</a>
-      </li>
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="404.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">404
-          Page</a>
-      </li>
-    </ul>
-  </li>
-  <li class="nav-menu__item has-submenu position-relative">
-    <a href="javascript:void(0)" class="nav-menu__link tw-pe-5 text-heading tw-py-9 fw-medium w-100">News</a>
-    <ul
-      class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-z-99">
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="blog.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
-          Latest News </a>
-      </li>
-      <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-        <a href="blog-details.html"
-          class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
-          News Details</a>
-      </li>
-    </ul>
-  </li>
-  <li class="nav-menu__item">
-    <a href="contact.html" class="nav-menu__link text-heading tw-py-9 fw-medium w-100">Contact</a>
-  </li>
-</ul>
-<!-- Nav menu End  -->
-      </div>
-      <!-- Menu End  -->
+  <!-- ==================== Mobile Menu End Here ==================== -->
 
-      <!-- Header Right start -->
-      <div class="d-lg-block d-none tw-ms-12">
-        <div class="d-flex align-items-center tw-gap-6 flex-shrink-0">
-          <div class="d-flex align-items-center tw-gap-1 d-lg-flex d-none">
-            <a
-              href="contact.html"
-              class="fw-semibold text-white text-decoration-underline tw-text-lg hover-underline-none"
-              >Let's Talk
-            </a>
+  <!-- ==================== Header Start Here ==================== -->
+  <header class="header tw-transition-all tw-z-99 headerAbsoluteStyle menuColorWhite menuPositionEnd fixedHeaderBlack border-line-full border-bottom border-white-22">
+    <div class="container max-w-1520-px">
+      <nav
+        class="d-flex align-items-center justify-content-between position-relative">
+        <!-- Logo Start -->
+        <div class="logo">
+          <a href="index.html" class="link">
             <img
-              src="assets/images/icons/greettings-hand.png"
-              alt="Icon"
-              class="animate-hand-move tw-mb-2"
-            >
-          </div>
-          <span class="border-line tw-w-px tw-h-9 bg-white-54 d-lg-flex d-none"></span>
-          <div class="d-flex align-items-center tw-gap-2">
-            <a
-              href="tel:(234)534-890-11"
-              class="tw-w-9 tw-h-9 bg-main-two-600 text text-heading tw-text-xl d-flex justify-content-center align-items-center rounded-circle hover-bg-main-two-800 hover-text-heading"
-            >
-              <i class="ph-fill ph-phone"></i>
-            </a>
-            <a
-              href="tel:(234)534-890-11"
-              class="text-white fw-semibold tw-text-base hover-underline"
-              >(234) 534-890-11</a
-            >
+              src="assets/images/logo/logo.png"
+              alt="Logo"
+              class="max-w-200-px">
+          </a>
+        </div>
+        <!-- Logo End  -->
+
+        <!-- Menu Start  -->
+        <div class="header-menu d-lg-block d-none">
+          <!-- Nav menu Start -->
+          <ul class="nav-menu d-lg-flex align-items-center tw-gap-6">
+            <li class="nav-menu__item has-submenu activePage">
+              <a href="javascript:void(0)" class="nav-menu__link tw-pe-5 text-heading tw-py-9 fw-medium w-100">Home</a>
+
+              <!-- mega menu start -->
+              <div
+                class="mega-menu tw-p-6 tw-rounded-lg scroll-sm nav-submenu position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md tw-z-99">
+                <div class="row g-4 row-cols-1 row-cols-lg-3 row-cols-xl-4">
+                  <div class="col">
+                    <div class="mega-menu-item group-item">
+                      <div class="position-relative border border-neutral-200 tw-rounded-lg overflow-hidden">
+                        <a href="index.html" class="d-block">
+                          <img src="assets/images/thumbs/home-img1.png" alt="Home Page Image"
+                            class="tw-h-440-px w-100 object-fit-cover object-top">
+                        </a>
+                        <div class="d-lg-flex d-none">
+                          <div
+                            class="mega-menu-item__overlay position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1 tw-scale-08 group-hover-item-scale-1 tw-rounded-lg pointer-event-none">
+                          </div>
+                          <div
+                            class="mega-menu-item__buttons position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center flex-column tw-gap-4 tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1">
+                            <a href="index.html" target="_blank"
+                              class="btn btn-main hover-style-one button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-705 group active--translate-y-2 tw-p-1 tw-ps-8 rounded-pill group-item"
+                              data-block="button">
+                              <span class="button__flair"></span>
+                              <span class="button__label">Live Preview</span>
+                              <span
+                                class="tw-w-12 tw-h-12 bg-white text-main-600 tw-text-xl rounded-circle d-flex justify-content-center align-items-center position-relative tw-duration-500">
+                                <i class="ph-bold ph-arrow-right tw-rotate--45-deg group-hover-item-rotate-0-deg tw-duration-300"></i>
+                              </span>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="tw-mt-4 text-center">
+                        <a href="index.html"
+                          class="text-heading hover-text-main-600 fw-semibold tw-text-md text-capitalize line-clamp-1">SEO & Digital
+                          Marketing Agency</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col">
+                    <div class="mega-menu-item group-item">
+                      <div class="position-relative border border-neutral-200 tw-rounded-lg overflow-hidden">
+                        <a href="index-2.html" class="d-block">
+                          <img src="assets/images/thumbs/home-img2.png" alt="Home Page Image"
+                            class="tw-h-440-px w-100 object-fit-cover object-top">
+                        </a>
+                        <div class="d-lg-flex d-none">
+                          <div
+                            class="mega-menu-item__overlay position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1 tw-scale-08 group-hover-item-scale-1 tw-rounded-lg pointer-event-none">
+                          </div>
+                          <div
+                            class="mega-menu-item__buttons position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center flex-column tw-gap-4 tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1">
+                            <a href="index-2.html" target="_blank"
+                              class="btn btn-main hover-style-one button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-705 group active--translate-y-2 tw-p-1 tw-ps-8 rounded-pill group-item"
+                              data-block="button">
+                              <span class="button__flair"></span>
+                              <span class="button__label">Live Preview</span>
+                              <span
+                                class="tw-w-12 tw-h-12 bg-white text-main-600 tw-text-xl rounded-circle d-flex justify-content-center align-items-center position-relative tw-duration-500">
+                                <i class="ph-bold ph-arrow-right tw-rotate--45-deg group-hover-item-rotate-0-deg tw-duration-300"></i>
+                              </span>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="tw-mt-4 text-center">
+                        <a href="index-2.html"
+                          class="text-heading hover-text-main-600 fw-semibold tw-text-md text-capitalize line-clamp-1">Social Media
+                          Marketing Agency</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col">
+                    <div class="mega-menu-item group-item">
+                      <div class="position-relative border border-neutral-200 tw-rounded-lg overflow-hidden">
+                        <a href="index-3.html" class="d-block">
+                          <img src="assets/images/thumbs/home-img3.png" alt="Home Page Image"
+                            class="tw-h-440-px w-100 object-fit-cover object-top">
+                        </a>
+                        <div class="d-lg-flex d-none">
+                          <div
+                            class="mega-menu-item__overlay position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1 tw-scale-08 group-hover-item-scale-1 tw-rounded-lg pointer-event-none">
+                          </div>
+                          <div
+                            class="mega-menu-item__buttons position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center flex-column tw-gap-4 tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1">
+                            <a href="index-3.html" target="_blank"
+                              class="btn btn-main hover-style-one button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-705 group active--translate-y-2 tw-p-1 tw-ps-8 rounded-pill group-item"
+                              data-block="button">
+                              <span class="button__flair"></span>
+                              <span class="button__label">Live Preview</span>
+                              <span
+                                class="tw-w-12 tw-h-12 bg-white text-main-600 tw-text-xl rounded-circle d-flex justify-content-center align-items-center position-relative tw-duration-500">
+                                <i class="ph-bold ph-arrow-right tw-rotate--45-deg group-hover-item-rotate-0-deg tw-duration-300"></i>
+                              </span>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="tw-mt-4 text-center">
+                        <a href="index-3.html"
+                          class="text-heading hover-text-main-600 fw-semibold tw-text-md text-capitalize line-clamp-1">Advertising
+                          Agency
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col">
+                    <div class="mega-menu-item group-item">
+                      <div class="position-relative border border-neutral-200 tw-rounded-lg overflow-hidden">
+                        <a href="index-4.html" class="d-block">
+                          <img src="assets/images/thumbs/home-img4.png" alt="Home Page Image"
+                            class="tw-h-440-px w-100 object-fit-cover object-top">
+                        </a>
+                        <div class="d-lg-flex d-none">
+                          <div
+                            class="mega-menu-item__overlay position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1 tw-scale-08 group-hover-item-scale-1 tw-rounded-lg pointer-event-none">
+                          </div>
+                          <div
+                            class="mega-menu-item__buttons position-absolute top-0 tw-start-0 w-100 h-100 d-flex justify-content-center align-items-center flex-column tw-gap-4 tw-invisible opacity-0 group-hover-item-visible group-hover-item-opacity-1">
+                            <a href="index-4.html" target="_blank"
+                              class="btn btn-main hover-style-one button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-705 group active--translate-y-2 tw-p-1 tw-ps-8 rounded-pill group-item"
+                              data-block="button">
+                              <span class="button__flair"></span>
+                              <span class="button__label">Live Preview</span>
+                              <span
+                                class="tw-w-12 tw-h-12 bg-white text-main-600 tw-text-xl rounded-circle d-flex justify-content-center align-items-center position-relative tw-duration-500">
+                                <i class="ph-bold ph-arrow-right tw-rotate--45-deg group-hover-item-rotate-0-deg tw-duration-300"></i>
+                              </span>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="tw-mt-4 text-center">
+                        <a href="index-4.html"
+                          class="text-heading hover-text-main-600 fw-semibold tw-text-md text-capitalize line-clamp-1">IT Solution
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col">
+                    <div class="mega-menu-item group-item">
+                      <div class="position-relative border border-neutral-200 tw-rounded-lg overflow-hidden">
+                        <span class="d-block">
+                          <img src="assets/images/thumbs/coming-soon-img.png" alt="Home Page Image"
+                            class="tw-h-440-px w-100 object-fit-cover object-top">
+                        </span>
+                      </div>
+                      <div class="tw-mt-4 text-center">
+                        <span class="text-heading fw-semibold tw-text-md text-capitalize line-clamp-1">Home 5</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- mega menu end -->
+            </li>
+            <li class="nav-menu__item has-submenu position-relative">
+              <a href="javascript:void(0)" class="nav-menu__link tw-pe-5 text-heading tw-py-9 fw-medium w-100">Services</a>
+              <ul
+                class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-z-99">
+                <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                  <a href="services.html"
+                    class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                    Services
+                  </a>
+                </li>
+                <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                  <a href="service-details.html"
+                    class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">Services
+                    Details</a>
+                </li>
+              </ul>
+            </li>
+            <li class="nav-menu__item has-submenu position-relative">
+              <a href="javascript:void(0)" class="nav-menu__link tw-pe-5 text-heading tw-py-9 fw-medium w-100">Pages</a>
+              <ul
+                class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-z-99">
+                <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                  <a href="about.html"
+                    class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                    About Us</a>
+                </li>
+                <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                  <a href="projects.html"
+                    class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                    Project</a>
+                </li>
+                <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                  <a href="project-details.html"
+                    class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                    Project Details</a>
+                </li>
+                <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                  <a href="pricing-plan.html"
+                    class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                    Pricing Plan</a>
+                </li>
+                <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                  <a href="faq.html"
+                    class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                    FAQ</a>
+                </li>
+                <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                  <a href="team.html"
+                    class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                    Team</a>
+                </li>
+                <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                  <a href="team-details.html"
+                    class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                    Team Details</a>
+                </li>
+                <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                  <a href="404.html"
+                    class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">404
+                    Page</a>
+                </li>
+              </ul>
+            </li>
+            <li class="nav-menu__item has-submenu position-relative">
+              <a href="javascript:void(0)" class="nav-menu__link tw-pe-5 text-heading tw-py-9 fw-medium w-100">News</a>
+              <ul
+                class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-z-99">
+                <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                  <a href="blog.html"
+                    class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                    Latest News </a>
+                </li>
+                <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                  <a href="blog-details.html"
+                    class="nav-submenu__link hover-bg-neutral-200 text-heading fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded">
+                    News Details</a>
+                </li>
+              </ul>
+            </li>
+            <li class="nav-menu__item">
+              <a href="contact.html" class="nav-menu__link text-heading tw-py-9 fw-medium w-100">Contact</a>
+            </li>
+          </ul>
+          <!-- Nav menu End  -->
+        </div>
+        <!-- Menu End  -->
+
+        <!-- Header Right start -->
+        <div class="d-lg-block d-none tw-ms-12">
+          <div class="d-flex align-items-center tw-gap-6 flex-shrink-0">
+            <div class="d-flex align-items-center tw-gap-1 d-lg-flex d-none">
+              <a
+                href="contact.html"
+                class="fw-semibold text-white text-decoration-underline tw-text-lg hover-underline-none">Let's Talk
+              </a>
+              <img
+                src="assets/images/icons/greettings-hand.png"
+                alt="Icon"
+                class="animate-hand-move tw-mb-2">
+            </div>
+            <span class="border-line tw-w-px tw-h-9 bg-white-54 d-lg-flex d-none"></span>
+            <div class="d-flex align-items-center tw-gap-2">
+              <a
+                href="tel:(234)534-890-11"
+                class="tw-w-9 tw-h-9 bg-main-two-600 text text-heading tw-text-xl d-flex justify-content-center align-items-center rounded-circle hover-bg-main-two-800 hover-text-heading">
+                <i class="ph-fill ph-phone"></i>
+              </a>
+              <a
+                href="tel:(234)534-890-11"
+                class="text-white fw-semibold tw-text-base hover-underline">(234) 534-890-11</a>
+            </div>
           </div>
         </div>
-      </div>
-      <button
-        type="button"
-        class="toggle-mobileMenu leading-none d-lg-none ms-3 text-white tw-text-9"
-      >
-        <i class="ph ph-list"></i>
-      </button>
-      <!-- Header Right End  -->
-    </nav>
-  </div>
-</header>
-<!-- ==================== Header End Here ==================== -->
+        <button
+          type="button"
+          class="toggle-mobileMenu leading-none d-lg-none ms-3 text-white tw-text-9">
+          <i class="ph ph-list"></i>
+        </button>
+        <!-- Header Right End  -->
+      </nav>
+    </div>
+  </header>
+  <!-- ==================== Header End Here ==================== -->
 
 
-<div id="smooth-wrapper" class="">
+  <div id="smooth-wrapper" class="">
     <div id="smooth-content">
-        <!-- ==================== Breadcrumb Start Here ==================== -->
-<section class="breadcrumb position-relative background-img bg-img z-1 mb-0" data-background-image="assets/images/thumbs/breadcrumb-bg-img.png">
-    <div class="container">
-        <div class="row justify-content-center">
+      <!-- ==================== Breadcrumb Start Here ==================== -->
+      <section class="breadcrumb position-relative background-img bg-img z-1 mb-0" data-background-image="assets/images/thumbs/breadcrumb-bg-img.png">
+        <div class="container">
+          <div class="row justify-content-center">
             <div class="col-lg-8">
-                <div class="text-center">
-                    <ul class="d-inline-flex align-items-center justify-content-center tw-gap-2 bg-white-08 rounded-pill tw-px-5 tw-py-2">
-                        <li><a href="index.html" class="text-white hover--translate-y-1 hover-underline"> <i class="las la-home"></i> Home</a> </li>
-                        <li class="text-white tw-text-lg">/</li>
-                        <li> <span class="text-white"> Service Details </span> </li>
-                    </ul>
-                    <h2 class="text-center tw-mb-6 text-white tw-mt-6 cursor-big"> Service Details</h2>
-                </div>
+              <div class="text-center">
+                <ul class="d-inline-flex align-items-center justify-content-center tw-gap-2 bg-white-08 rounded-pill tw-px-5 tw-py-2">
+                  <li><a href="index.html" class="text-white hover--translate-y-1 hover-underline"> <i class="las la-home"></i> Home</a> </li>
+                  <li class="text-white tw-text-lg">/</li>
+                  <li> <span class="text-white"> Service Details </span> </li>
+                </ul>
+                <h2 class="text-center tw-mb-6 text-white tw-mt-6 cursor-big"> Service Details</h2>
+              </div>
             </div>
+          </div>
         </div>
-    </div>
-</section>
-<!-- ==================== Breadcrumb End Here ==================== -->
+      </section>
+      <!-- ==================== Breadcrumb End Here ==================== -->
 
 
-<!-- ======================== Services Details Start ========================== -->
-<section class="service-details py-100">
-    <div class="container">
-        <div class="row gy-4">
-            <!-- Changed from col-xl-16 to col-xl-12 for proper Bootstrap grid -->
-            <div class="col-xl-12">
-                <div class="">
-                    <div class="tw-mt-8 d-flex flex-column tw-gap-12">
-                        <!-- First Section -->
-                        <div class="">
-                            <h4 class="tw-mb-3 splitTextStyleOne">Cargo Transportation Service</h4>
-                            <p class="text-neutral-600">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                elit. Placeat qui ducimus illum modi? perspiciatis accusamus soluta perferendis,
-                                ad illum, nesciunt, reiciendis iusto et cupidit Repudiandae provident to
-                                consectetur, sapiente, libero iure necessitatibus corporis nulla voluptate,
-                                quisquam aut perspiciatis? Fugiat labore aspernatur eius, perspiciatis ut
-                                molestiae, delectus rem.</p>
-                            <p>
-                                Working the way you envisaged? Is your van a little old and tired and need
-                                refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                                1500s, when an unknown printer took a galley of type and scrambled it to make a
-                                type specimen book. It has survived not only five centuries, but also the leap
-                                into electronic typesetting, re
-                            </p>
-                            <br>
-                            <p>
-                                Working the way you envisaged? Is your van a little old and tired and need
-                                refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                                1500s, when an unknown printer took a galley of type and scrambled it to make a
-                                type specimen book. It has survived not only five centuries, but also the leap
-                                into electronic typesetting, re
-                            </p>
+      <!-- ======================== Services Details Start ========================== -->
+      <section class="service-details py-100">
+        <div class="container">
+          <div class="row gy-4">
+
+
+            <div class="col-xl-16 ps-xl-5">
+              <div class="">
+
+                <div class="tw-mt-8 d-flex flex-column tw-gap-12">
+                  <div class="">
+                    <h4 class="tw-mb-3 splitTextStyleOne">Cargo Transportation service</h4>
+                    <p class="text-neutral-600">Lorem ipsum dolor sit amet, consectetur adipisicing
+                      elit. Placeat qui ducimus illum modi? perspiciatis accusamus soluta perferendis,
+                      ad illum, nesciunt, reiciendis iusto et cupidit Repudiandae provident to
+                      consectetur, sapiente, libero iure necessitatibus corporis nulla voluptate,
+                      quisquam aut perspiciatis? Fugiat labore aspernatur eius, perspiciatis ut
+                      molestiae, delectus rem.</p>
+                    <p>
+                      working the way you envisaged? Is your van a little old and tired and need
+                      refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
+                      industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+                      1500s, when an unknown printer took a galley of type and scrambled it to make a
+                      type specimen book. It has survived not only five centuries, but also the leap
+                      into electronic typesetting, re
+                    </p>
+                    <br>
+                    <p>
+                      working the way you envisaged? Is your van a little old and tired and need
+                      refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
+                      industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+                      1500s, when an unknown printer took a galley of type and scrambled it to make a
+                      type specimen book. It has survived not only five centuries, but also the leap
+                      into electronic typesetting, re</p>
+                  </div>
+                  <div class="hover-animation-white">
+                    <img src="assets/images/thumbs/service-details-img1.png" alt="Thumb"
+                      class="tw-rounded-xl w-100 h-100 object-fit-cover">
+                  </div>
+                  <div class="">
+                    <h5 class="tw-mb-3 splitTextStyleOne">Sed ut perspiciatis unde omnis iste natus et
+                    </h5>
+                    <p class="text-neutral-600">Need something changed or is there something not quite
+                      working the way you envisaged? Is your van a little old and tired and need
+                      refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
+                      industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+                      1500s, when an unknown printer took a galley of type and scrambled it to make a
+                      type specimen book. It has survived not only five centuries, but also the leap
+                      into electronic typesetting, remaining essentially unchanged.</p>
+
+                  </div>
+                  <div class="">
+                    <div class="row gy-4">
+                      <div class="col-sm-6">
+                        <div class="tw-mt-15 d-flex flex-column tw-gap-5">
+                          <div class="d-flex align-items-center tw-gap-4">
+                            <span
+                              class="tw-w-4 tw-h-4 bg-main-600 text-white tw-text-xs d-flex justify-content-center align-items-center rounded-circle">
+                              <i class="ph-bold ph-check"></i>
+                            </span>
+                            <p class="text-neutral-500">Lorem ipsum dolor consectetur the nunc semper
+                              pulvinar vulputate neque.</p>
+                          </div>
+                          <div class="d-flex align-items-center tw-gap-4">
+                            <span
+                              class="tw-w-4 tw-h-4 bg-main-600 text-white tw-text-xs d-flex justify-content-center align-items-center rounded-circle">
+                              <i class="ph-bold ph-check"></i>
+                            </span>
+                            <p class="text-neutral-500">Dolor consectetur the nunc pulvinar vulputate
+                              neque.</p>
+                          </div>
+                          <div class="d-flex align-items-center tw-gap-4">
+                            <span
+                              class="tw-w-4 tw-h-4 bg-main-600 text-white tw-text-xs d-flex justify-content-center align-items-center rounded-circle">
+                              <i class="ph-bold ph-check"></i>
+                            </span>
+                            <p class="text-neutral-500">Consectetur the nunc semper pulvinar vulputate
+                              neque.</p>
+                          </div>
                         </div>
-
-                        <!-- Image Section -->
-                        <div class="hover-animation-white">
-                            <img src="assets/images/thumbs/service-details-img1.png" alt="Thumb"
-                                class="tw-rounded-xl w-100 h-100 object-fit-cover">
+                      </div>
+                      <div class="col-sm-6">
+                        <div class="h-100 hover-animation-white">
+                          <img src="assets/images/thumbs/service-details-img3.png" alt="Thumbnail"
+                            class="tw-rounded-xl w-100 h-100 object-fit-cover">
                         </div>
-
-                        <!-- Second Section -->
-                        <div class="">
-                            <h5 class="tw-mb-3 splitTextStyleOne">Sed ut perspiciatis unde omnis iste natus et</h5>
-                            <p class="text-neutral-600">Need something changed or is there something not quite
-                                working the way you envisaged? Is your van a little old and tired and need
-                                refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                                1500s, when an unknown printer took a galley of type and scrambled it to make a
-                                type specimen book. It has survived not only five centuries, but also the leap
-                                into electronic typesetting, remaining essentially unchanged.</p>
-                        </div>
-
-                        <!-- Features and Image Section with proper row structure -->
-                        <div class="">
-                            <div class="row gy-4">
-                                <!-- Left Column - Features List -->
-                                <div class="col-sm-6">
-                                    <div class="d-flex flex-column tw-gap-5">
-                                        <div class="d-flex align-items-center tw-gap-4">
-                                            <span
-                                                class="tw-w-4 tw-h-4 bg-main-600 text-white tw-text-xs d-flex justify-content-center align-items-center rounded-circle flex-shrink-0">
-                                                <i class="ph-bold ph-check"></i>
-                                            </span>
-                                            <p class="text-neutral-500 mb-0">Lorem ipsum dolor consectetur the nunc semper
-                                                pulvinar vulputate neque.</p>
-                                        </div>
-                                        <div class="d-flex align-items-center tw-gap-4">
-                                            <span
-                                                class="tw-w-4 tw-h-4 bg-main-600 text-white tw-text-xs d-flex justify-content-center align-items-center rounded-circle flex-shrink-0">
-                                                <i class="ph-bold ph-check"></i>
-                                            </span>
-                                            <p class="text-neutral-500 mb-0">Dolor consectetur the nunc pulvinar vulputate
-                                                neque.</p>
-                                        </div>
-                                        <div class="d-flex align-items-center tw-gap-4">
-                                            <span
-                                                class="tw-w-4 tw-h-4 bg-main-600 text-white tw-text-xs d-flex justify-content-center align-items-center rounded-circle flex-shrink-0">
-                                                <i class="ph-bold ph-check"></i>
-                                            </span>
-                                            <p class="text-neutral-500 mb-0">Consectetur the nunc semper pulvinar vulputate
-                                                neque.</p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- Right Column - Image -->
-                                <div class="col-sm-6">
-                                    <div class="h-100 hover-animation-white">
-                                        <img src="assets/images/thumbs/service-details-img3.png" alt="Thumbnail"
-                                            class="tw-rounded-xl w-100 h-100 object-fit-cover">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Final Section -->
-                        <div class="">
-                            <h5 class="tw-mb-3 splitTextStyleOne">Sed ut perspiciatis unde omnis iste natus et</h5>
-                            <p class="text-neutral-600">Need something changed or is there something not quite
-                                working the way you envisaged? Is your van a little old and tired and need
-                                refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                                1500s, when an unknown printer took a galley of type and scrambled it to make a
-                                type specimen book. It has survived not only five centuries, but also the leap
-                                into electronic typesetting, remaining essentially unchanged.</p>
-                            <br>
-                            <p>
-                                Working the way you envisaged? Is your van a little old and tired and need
-                                refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                                1500s, when an unknown printer took a galley of type and scrambled it to make a
-                                type specimen book. It has survived not only five centuries, but also the leap
-                                into electronic typesetting, re
-                            </p>
-                            <br>
-                            <p>
-                                Working the way you envisaged? Is your van a little old and tired and need
-                                refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                                1500s, when an unknown printer took a galley of type and scrambled it to make a
-                                type specimen book. It has survived not only five centuries, but also the leap
-                                into electronic typesetting, re
-                            </p>
-                        </div>
+                      </div>
                     </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- ======================== Services Details end ========================== -->
+                  </div>
 
-<!-- ======================== Other Services Cards ========================== -->
-<section class="project py-100 mt-4">
-    <div class="container">
-        <!-- Section heading start -->
-        <div class="max-w-780-px text-center mx-auto tw-mb-10" data-aos="fade-up" data-aos-duration="800"
-                    data-aos-delay="100">
-                    <span class="bg-main-50 text-main-600 fw-medium tw-text-base rounded-pill tw-px-5 tw-py-1 tw-mb-6">
-                        Our Services</span>
+                  <div class="">
+                    <h5 class="tw-mb-3 splitTextStyleOne">Sed ut perspiciatis unde omnis iste natus et
+                    </h5>
+                    <p class="text-neutral-600">Need something changed or is there something not quite
+                      working the way you envisaged? Is your van a little old and tired and need
+                      refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
+                      industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+                      1500s, when an unknown printer took a galley of type and scrambled it to make a
+                      type specimen book. It has survived not only five centuries, but also the leap
+                      into electronic typesetting, remaining essentially unchanged.
+                    </p>
+                    <br>
+                    <p>
+                      working the way you envisaged? Is your van a little old and tired and need
+                      refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
+                      industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+                      1500s, when an unknown printer took a galley of type and scrambled it to make a
+                      type specimen book. It has survived not only five centuries, but also the leap
+                      into electronic typesetting, re
+                    </p>
+                    <br>
+                    <p>
+                      working the way you envisaged? Is your van a little old and tired and need
+                      refreshing? Lorem Ipsum is simply dummy text of the printing and typesetting
+                      industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+                      1500s, when an unknown printer took a galley of type and scrambled it to make a
+                      type specimen book. It has survived not only five centuries, but also the leap
+                      into electronic typesetting, re</p>
+
+                  </div>
+
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- ======================== Services Details end ========================== -->
+
+
+      <!-- =============================== FAQ section start ================================= -->
+      <section class="faq tw-my-10">
+        <div class="container">
+          <!-- Section heading start -->
+          <div class="max-w-780-px text-center mx-auto tw-mb-10" data-aos="fade-up" data-aos-duration="800"
+            data-aos-delay="100">
+            <span class="bg-main-50 text-main-600 fw-medium tw-text-base rounded-pill tw-px-5 tw-py-1 tw-mb-6">
+              Our FAQs</span>
             <h2 class="splitTextStyleOne cursor-big">
-                Other Services
+              Frequently Asked Questions
+              <span class="font-playfair fw-normal font-playfair fst-italic">About Us</span>
             </h2>
-        </div>
-        <!-- Section heading end -->
+          </div>
+          <!-- Section heading end -->
 
-        <!-- Cards Grid -->
-        <div class="row justify-content-center">
-            <div class="col-12">
-                <div class="row g-4">
-                    
-                    <!-- Card 1 -->
-                    <div class="col-xl-3 col-lg-4 col-md-6">
-                        <div class="bg-white tw-rounded-xl tw-p-6 image-double-animation h-100 common-shadow-5" data-aos="fade-up" data-aos-duration="800" data-aos-delay="100">
-                            <a href="project-details.html" class="tw-rounded-xl overflow-hidden d-block position-relative view-cursor-show">
-                                <img src="assets/images/thumbs/project-two-img1.png" alt="Article Data Analysis" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
-                                <img src="assets/images/thumbs/project-two-img1.png" alt="Article Data Analysis" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
-                                <span class="bg-main-two-600 text-heading tw-text-sm fw-medium tw-py-105 tw-px-5 rounded-pill position-absolute top-0 tw-start-0 tw-mt-3 tw-ms-3 z-1">
-                                    Marketing
-                                </span>
-                            </a>
-                            <div class="tw-pt-6">
-                                <h6 class="tw-mb-4">
-                                    <a href="project-details.html" class="text-heading hover-text-main-600">Article Data Analysis</a>
-                                </h6>
-                                <p class="text-neutral-500 fw-normal tw-text-lg">
-                                    Marketing agency committed to helping businesses grow online. With a team of skilled strategists, designers.
-                                </p>
-                            </div>
-                        </div>
+          <div class="row gy-4">
+            <div class="col-lg-6">
+              <div class="accordion common-accordion d-flex flex-column tw-gap-5" id="accordionExample">
+                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
+                  data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+                  <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
+                    <button
+                      class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
+                      type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo"
+                      aria-expanded="false" aria-controls="collapseTwo">
+                      1. What services do you offer?
+                    </button>
+                  </h5>
+                  <div id="collapseTwo" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionExample">
+                    <div
+                      class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
+                      <p class="text-neutral-500 tw-leading-212">We offer both short-term and
+                        long-term plans. Contracts vary based on your chosen service and project
+                        scope.</p>
                     </div>
-
-                    <!-- Card 2 -->
-                    <div class="col-xl-3 col-lg-4 col-md-6">
-                        <div class="bg-white tw-rounded-xl tw-p-6 image-double-animation h-100 common-shadow-5" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
-                            <a href="project-details.html" class="tw-rounded-xl overflow-hidden d-block position-relative view-cursor-show">
-                                <img src="assets/images/thumbs/project-two-img2.png" alt="Lead Generation Made Easy" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
-                                <img src="assets/images/thumbs/project-two-img2.png" alt="Lead Generation Made Easy" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
-                                <span class="bg-main-two-600 text-heading tw-text-sm fw-medium tw-py-105 tw-px-5 rounded-pill position-absolute top-0 tw-start-0 tw-mt-3 tw-ms-3 z-1">
-                                    Marketing
-                                </span>
-                            </a>
-                            <div class="tw-pt-6">
-                                <h6 class="tw-mb-4">
-                                    <a href="project-details.html" class="text-heading hover-text-main-600">Lead Generation Made Easy</a>
-                                </h6>
-                                <p class="text-neutral-500 fw-normal tw-text-lg">
-                                    Marketing agency committed to helping businesses grow online. With a team of skilled strategists, designers.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Card 3 -->
-                    <div class="col-xl-3 col-lg-4 col-md-6">
-                        <div class="bg-white tw-rounded-xl tw-p-6 image-double-animation h-100 common-shadow-5" data-aos="fade-up" data-aos-duration="800" data-aos-delay="300">
-                            <a href="project-details.html" class="tw-rounded-xl overflow-hidden d-block position-relative view-cursor-show">
-                                <img src="assets/images/thumbs/project-two-img3.png" alt="Content Strategy That Converts" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
-                                <img src="assets/images/thumbs/project-two-img3.png" alt="Content Strategy That Converts" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
-                                <span class="bg-main-two-600 text-heading tw-text-sm fw-medium tw-py-105 tw-px-5 rounded-pill position-absolute top-0 tw-start-0 tw-mt-3 tw-ms-3 z-1">
-                                    Marketing
-                                </span>
-                            </a>
-                            <div class="tw-pt-6">
-                                <h6 class="tw-mb-4">
-                                    <a href="project-details.html" class="text-heading hover-text-main-600">Content Strategy That Converts</a>
-                                </h6>
-                                <p class="text-neutral-500 fw-normal tw-text-lg">
-                                    Marketing agency committed to helping businesses grow online. With a team of skilled strategists, designers.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Card 4 -->
-                    <div class="col-xl-3 col-lg-4 col-md-6">
-                        <div class="bg-white tw-rounded-xl tw-p-6 image-double-animation h-100 common-shadow-5" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">
-                            <a href="project-details.html" class="tw-rounded-xl overflow-hidden d-block position-relative view-cursor-show">
-                                <img src="assets/images/thumbs/project-two-img4.png" alt="YouTube Ads Performance Boost" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
-                                <img src="assets/images/thumbs/project-two-img4.png" alt="YouTube Ads Performance Boost" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
-                                <span class="bg-main-two-600 text-heading tw-text-sm fw-medium tw-py-105 tw-px-5 rounded-pill position-absolute top-0 tw-start-0 tw-mt-3 tw-ms-3 z-1">
-                                    Marketing
-                                </span>
-                            </a>
-                            <div class="tw-pt-6">
-                                <h6 class="tw-mb-4">
-                                    <a href="project-details.html" class="text-heading hover-text-main-600">YouTube Ads Performance Boost</a>
-                                </h6>
-                                <p class="text-neutral-500 fw-normal tw-text-lg">
-                                    Marketing agency committed to helping businesses grow online. With a team of skilled strategists, designers.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Card 5 -->
-                    <div class="col-xl-3 col-lg-4 col-md-6">
-                        <div class="bg-white tw-rounded-xl tw-p-6 image-double-animation h-100 common-shadow-5" data-aos="fade-up" data-aos-duration="800" data-aos-delay="500">
-                            <a href="project-details.html" class="tw-rounded-xl overflow-hidden d-block position-relative view-cursor-show">
-                                <img src="assets/images/thumbs/project-two-img1.png" alt="Social Media Marketing" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
-                                <img src="assets/images/thumbs/project-two-img1.png" alt="Social Media Marketing" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
-                                <span class="bg-main-two-600 text-heading tw-text-sm fw-medium tw-py-105 tw-px-5 rounded-pill position-absolute top-0 tw-start-0 tw-mt-3 tw-ms-3 z-1">
-                                    Marketing
-                                </span>
-                            </a>
-                            <div class="tw-pt-6">
-                                <h6 class="tw-mb-4">
-                                    <a href="project-details.html" class="text-heading hover-text-main-600">Social Media Marketing</a>
-                                </h6>
-                                <p class="text-neutral-500 fw-normal tw-text-lg">
-                                    Marketing agency committed to helping businesses grow online. With a team of skilled strategists, designers.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Card 6 -->
-                    <div class="col-xl-3 col-lg-4 col-md-6">
-                        <div class="bg-white tw-rounded-xl tw-p-6 image-double-animation h-100 common-shadow-5" data-aos="fade-up" data-aos-duration="800" data-aos-delay="600">
-                            <a href="project-details.html" class="tw-rounded-xl overflow-hidden d-block position-relative view-cursor-show">
-                                <img src="assets/images/thumbs/project-two-img2.png" alt="Email Campaign Optimization" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
-                                <img src="assets/images/thumbs/project-two-img2.png" alt="Email Campaign Optimization" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
-                                <span class="bg-main-two-600 text-heading tw-text-sm fw-medium tw-py-105 tw-px-5 rounded-pill position-absolute top-0 tw-start-0 tw-mt-3 tw-ms-3 z-1">
-                                    Marketing
-                                </span>
-                            </a>
-                            <div class="tw-pt-6">
-                                <h6 class="tw-mb-4">
-                                    <a href="project-details.html" class="text-heading hover-text-main-600">Email Campaign Optimization</a>
-                                </h6>
-                                <p class="text-neutral-500 fw-normal tw-text-lg">
-                                    Marketing agency committed to helping businesses grow online. With a team of skilled strategists, designers.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Card 7 -->
-                    <div class="col-xl-3 col-lg-4 col-md-6">
-                        <div class="bg-white tw-rounded-xl tw-p-6 image-double-animation h-100 common-shadow-5" data-aos="fade-up" data-aos-duration="800" data-aos-delay="700">
-                            <a href="project-details.html" class="tw-rounded-xl overflow-hidden d-block position-relative view-cursor-show">
-                                <img src="assets/images/thumbs/project-two-img3.png" alt="SEO Optimization Services" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
-                                <img src="assets/images/thumbs/project-two-img3.png" alt="SEO Optimization Services" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
-                                <span class="bg-main-two-600 text-heading tw-text-sm fw-medium tw-py-105 tw-px-5 rounded-pill position-absolute top-0 tw-start-0 tw-mt-3 tw-ms-3 z-1">
-                                    Marketing
-                                </span>
-                            </a>
-                            <div class="tw-pt-6">
-                                <h6 class="tw-mb-4">
-                                    <a href="project-details.html" class="text-heading hover-text-main-600">SEO Optimization Services</a>
-                                </h6>
-                                <p class="text-neutral-500 fw-normal tw-text-lg">
-                                    Marketing agency committed to helping businesses grow online. With a team of skilled strategists, designers.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Card 8 -->
-                    <div class="col-xl-3 col-lg-4 col-md-6">
-                        <div class="bg-white tw-rounded-xl tw-p-6 image-double-animation h-100 common-shadow-5" data-aos="fade-up" data-aos-duration="800" data-aos-delay="800">
-                            <a href="project-details.html" class="tw-rounded-xl overflow-hidden d-block position-relative view-cursor-show">
-                                <img src="assets/images/thumbs/project-two-img4.png" alt="Brand Identity Development" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
-                                <img src="assets/images/thumbs/project-two-img4.png" alt="Brand Identity Development" class="image-double-animation__element tw-rounded-xl w-100 object-fit-cover">
-                                <span class="bg-main-two-600 text-heading tw-text-sm fw-medium tw-py-105 tw-px-5 rounded-pill position-absolute top-0 tw-start-0 tw-mt-3 tw-ms-3 z-1">
-                                    Marketing
-                                </span>
-                            </a>
-                            <div class="tw-pt-6">
-                                <h6 class="tw-mb-4">
-                                    <a href="project-details.html" class="text-heading hover-text-main-600">Brand Identity Development</a>
-                                </h6>
-                                <p class="text-neutral-500 fw-normal tw-text-lg">
-                                    Marketing agency committed to helping businesses grow online. With a team of skilled strategists, designers.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
+                  </div>
                 </div>
+                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
+                  data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+                  <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
+                    <button
+                      class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold"
+                      type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
+                      aria-expanded="true" aria-controls="collapseOne">
+                      2. How do you measure success?
+                    </button>
+                  </h5>
+                  <div id="collapseOne" class="accordion-collapse collapse show"
+                    data-bs-parent="#accordionExample">
+                    <div
+                      class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
+                      <p class="text-neutral-500 tw-leading-212">We offer both short-term and
+                        long-term plans. Contracts vary based on your chosen service and project
+                        scope.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
+                  data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+                  <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
+                    <button
+                      class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
+                      type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                      aria-expanded="false" aria-controls="collapseThree">
+                      3. Do you work with all industries?
+                    </button>
+                  </h5>
+                  <div id="collapseThree" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionExample">
+                    <div
+                      class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
+                      <p class="text-neutral-500 tw-leading-212">We offer both short-term and
+                        long-term plans. Contracts vary based on your chosen service and project
+                        scope.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
+                  data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+                  <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
+                    <button
+                      class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
+                      type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour"
+                      aria-expanded="false" aria-controls="collapseFour">
+                      4. How long before I see results?
+                    </button>
+                  </h5>
+                  <div id="collapseFour" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionExample">
+                    <div
+                      class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
+                      <p class="text-neutral-500 tw-leading-212">We offer both short-term and
+                        long-term plans. Contracts vary based on your chosen service and project
+                        scope.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
+                  data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+                  <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
+                    <button
+                      class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
+                      type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive"
+                      aria-expanded="false" aria-controls="collapseFive">
+                      5. Is there a contract required?
+                    </button>
+                  </h5>
+                  <div id="collapseFive" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionExample">
+                    <div
+                      class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
+                      <p class="text-neutral-500 tw-leading-212">We offer both short-term and
+                        long-term plans. Contracts vary based on your chosen service and project
+                        scope.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
+                  data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+                  <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
+                    <button
+                      class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
+                      type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix"
+                      aria-expanded="false" aria-controls="collapseSix">
+                      6. What platforms do you specialize in?
+                    </button>
+                  </h5>
+                  <div id="collapseSix" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionExample">
+                    <div
+                      class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
+                      <p class="text-neutral-500 tw-leading-212">We offer both short-term and
+                        long-term plans. Contracts vary based on your chosen service and project
+                        scope.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
+                  data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+                  <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
+                    <button
+                      class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
+                      type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven"
+                      aria-expanded="false" aria-controls="collapseSeven">
+                      7. Can you redesign my website?
+                    </button>
+                  </h5>
+                  <div id="collapseSeven" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionExample">
+                    <div
+                      class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
+                      <p class="text-neutral-500 tw-leading-212">We offer both short-term and
+                        long-term plans. Contracts vary based on your chosen service and project
+                        scope.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
-        </div>
-    </div>
-</section>
-<!-- ======================== Other Services Cards end ========================== -->
 
-        <!-- =============================== FAQ section start ================================= -->
-        <section class="faq tw-my-10">
-            <div class="container">
-                <!-- Section heading start -->
-                <div class="max-w-780-px text-center mx-auto tw-mb-10" data-aos="fade-up" data-aos-duration="800"
-                    data-aos-delay="100">
-                    <span class="bg-main-50 text-main-600 fw-medium tw-text-base rounded-pill tw-px-5 tw-py-1 tw-mb-6">
-                        Our FAQs</span>
-                    <h2 class="splitTextStyleOne cursor-big">
-                        Frequently Asked Questions
-                        <span class="font-playfair fw-normal font-playfair fst-italic">About Us</span>
-                    </h2>
-                </div>
-                <!-- Section heading end -->
-
-                <div class="row gy-4">
-                    <div class="col-lg-6">
-                        <div class="accordion common-accordion d-flex flex-column tw-gap-5" id="accordionExample">
-                            <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                    <button
-                                        class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo"
-                                        aria-expanded="false" aria-controls="collapseTwo">
-                                        1. What services do you offer?
-                                    </button>
-                                </h5>
-                                <div id="collapseTwo" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div
-                                        class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                        <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                            long-term plans. Contracts vary based on your chosen service and project
-                                            scope.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                    <button
-                                        class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
-                                        aria-expanded="true" aria-controls="collapseOne">
-                                        2. How do you measure success?
-                                    </button>
-                                </h5>
-                                <div id="collapseOne" class="accordion-collapse collapse show"
-                                    data-bs-parent="#accordionExample">
-                                    <div
-                                        class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                        <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                            long-term plans. Contracts vary based on your chosen service and project
-                                            scope.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                    <button
-                                        class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree"
-                                        aria-expanded="false" aria-controls="collapseThree">
-                                        3. Do you work with all industries?
-                                    </button>
-                                </h5>
-                                <div id="collapseThree" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div
-                                        class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                        <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                            long-term plans. Contracts vary based on your chosen service and project
-                                            scope.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                    <button
-                                        class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour"
-                                        aria-expanded="false" aria-controls="collapseFour">
-                                        4. How long before I see results?
-                                    </button>
-                                </h5>
-                                <div id="collapseFour" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div
-                                        class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                        <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                            long-term plans. Contracts vary based on your chosen service and project
-                                            scope.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                    <button
-                                        class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive"
-                                        aria-expanded="false" aria-controls="collapseFive">
-                                        5. Is there a contract required?
-                                    </button>
-                                </h5>
-                                <div id="collapseFive" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div
-                                        class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                        <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                            long-term plans. Contracts vary based on your chosen service and project
-                                            scope.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                    <button
-                                        class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix"
-                                        aria-expanded="false" aria-controls="collapseSix">
-                                        6. What platforms do you specialize in?
-                                    </button>
-                                </h5>
-                                <div id="collapseSix" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div
-                                        class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                        <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                            long-term plans. Contracts vary based on your chosen service and project
-                                            scope.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                    <button
-                                        class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven"
-                                        aria-expanded="false" aria-controls="collapseSeven">
-                                        7. Can you redesign my website?
-                                    </button>
-                                </h5>
-                                <div id="collapseSeven" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div
-                                        class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                        <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                            long-term plans. Contracts vary based on your chosen service and project
-                                            scope.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+            <div class="col-lg-6">
+              <div class="accordion common-accordion d-flex flex-column tw-gap-5" id="accordionExampleTwp">
+                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
+                  data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+                  <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
+                    <button
+                      class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
+                      type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwoTwo"
+                      aria-expanded="false" aria-controls="collapseTwoTwo">
+                      8. How much do your services cost?
+                    </button>
+                  </h5>
+                  <div id="collapseTwoTwo" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionExampleTwp">
+                    <div
+                      class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
+                      <p class="text-neutral-500 tw-leading-212">We offer both short-term and
+                        long-term plans. Contracts vary based on your chosen service and project
+                        scope.</p>
                     </div>
-
-                    <div class="col-lg-6">
-                        <div class="accordion common-accordion d-flex flex-column tw-gap-5" id="accordionExampleTwp">
-                            <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                    <button
-                                        class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwoTwo"
-                                        aria-expanded="false" aria-controls="collapseTwoTwo">
-                                        8. How much do your services cost?
-                                    </button>
-                                </h5>
-                                <div id="collapseTwoTwo" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExampleTwp">
-                                    <div
-                                        class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                        <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                            long-term plans. Contracts vary based on your chosen service and project
-                                            scope.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                    <button
-                                        class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#collapseOneTwo"
-                                        aria-expanded="true" aria-controls="collapseOneTwo">
-                                        9. Do you provide regular reports?
-                                    </button>
-                                </h5>
-                                <div id="collapseOneTwo" class="accordion-collapse collapse show"
-                                    data-bs-parent="#accordionExampleTwp">
-                                    <div
-                                        class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                        <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                            long-term plans. Contracts vary based on your chosen service and project
-                                            scope.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                    <button
-                                        class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#collapseThreeTwo"
-                                        aria-expanded="false" aria-controls="collapseThreeTwo">
-                                        10. Will I have a dedicated manager?
-                                    </button>
-                                </h5>
-                                <div id="collapseThreeTwo" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExampleTwp">
-                                    <div
-                                        class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                        <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                            long-term plans. Contracts vary based on your chosen service and project
-                                            scope.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                    <button
-                                        class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#collapseFourTwo"
-                                        aria-expanded="false" aria-controls="collapseFourTwo">
-                                        11. Do you offer one-time services?
-                                    </button>
-                                </h5>
-                                <div id="collapseFourTwo" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExampleTwp">
-                                    <div
-                                        class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                        <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                            long-term plans. Contracts vary based on your chosen service and project
-                                            scope.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                    <button
-                                        class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#collapseFiveTwo"
-                                        aria-expanded="false" aria-controls="collapseFiveTwo">
-                                        12. Can you help with branding?
-                                    </button>
-                                </h5>
-                                <div id="collapseFiveTwo" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExampleTwp">
-                                    <div
-                                        class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                        <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                            long-term plans. Contracts vary based on your chosen service and project
-                                            scope.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                    <button
-                                        class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#collapseSixTwo"
-                                        aria-expanded="false" aria-controls="collapseSixTwo">
-                                        13. What makes your agency different?
-                                    </button>
-                                </h5>
-                                <div id="collapseSixTwo" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExampleTwp">
-                                    <div
-                                        class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                        <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                            long-term plans. Contracts vary based on your chosen service and project
-                                            scope.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                    <button
-                                        class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#collapseSevenTwo"
-                                        aria-expanded="false" aria-controls="collapseSevenTwo">
-                                        14. How do I get started?
-                                    </button>
-                                </h5>
-                                <div id="collapseSevenTwo" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExampleTwp">
-                                    <div
-                                        class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                        <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                            long-term plans. Contracts vary based on your chosen service and project
-                                            scope.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                  </div>
                 </div>
+                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
+                  data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+                  <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
+                    <button
+                      class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold"
+                      type="button" data-bs-toggle="collapse" data-bs-target="#collapseOneTwo"
+                      aria-expanded="true" aria-controls="collapseOneTwo">
+                      9. Do you provide regular reports?
+                    </button>
+                  </h5>
+                  <div id="collapseOneTwo" class="accordion-collapse collapse show"
+                    data-bs-parent="#accordionExampleTwp">
+                    <div
+                      class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
+                      <p class="text-neutral-500 tw-leading-212">We offer both short-term and
+                        long-term plans. Contracts vary based on your chosen service and project
+                        scope.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
+                  data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+                  <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
+                    <button
+                      class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
+                      type="button" data-bs-toggle="collapse" data-bs-target="#collapseThreeTwo"
+                      aria-expanded="false" aria-controls="collapseThreeTwo">
+                      10. Will I have a dedicated manager?
+                    </button>
+                  </h5>
+                  <div id="collapseThreeTwo" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionExampleTwp">
+                    <div
+                      class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
+                      <p class="text-neutral-500 tw-leading-212">We offer both short-term and
+                        long-term plans. Contracts vary based on your chosen service and project
+                        scope.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
+                  data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+                  <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
+                    <button
+                      class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
+                      type="button" data-bs-toggle="collapse" data-bs-target="#collapseFourTwo"
+                      aria-expanded="false" aria-controls="collapseFourTwo">
+                      11. Do you offer one-time services?
+                    </button>
+                  </h5>
+                  <div id="collapseFourTwo" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionExampleTwp">
+                    <div
+                      class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
+                      <p class="text-neutral-500 tw-leading-212">We offer both short-term and
+                        long-term plans. Contracts vary based on your chosen service and project
+                        scope.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
+                  data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+                  <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
+                    <button
+                      class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
+                      type="button" data-bs-toggle="collapse" data-bs-target="#collapseFiveTwo"
+                      aria-expanded="false" aria-controls="collapseFiveTwo">
+                      12. Can you help with branding?
+                    </button>
+                  </h5>
+                  <div id="collapseFiveTwo" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionExampleTwp">
+                    <div
+                      class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
+                      <p class="text-neutral-500 tw-leading-212">We offer both short-term and
+                        long-term plans. Contracts vary based on your chosen service and project
+                        scope.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
+                  data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+                  <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
+                    <button
+                      class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
+                      type="button" data-bs-toggle="collapse" data-bs-target="#collapseSixTwo"
+                      aria-expanded="false" aria-controls="collapseSixTwo">
+                      13. What makes your agency different?
+                    </button>
+                  </h5>
+                  <div id="collapseSixTwo" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionExampleTwp">
+                    <div
+                      class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
+                      <p class="text-neutral-500 tw-leading-212">We offer both short-term and
+                        long-term plans. Contracts vary based on your chosen service and project
+                        scope.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
+                  data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+                  <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
+                    <button
+                      class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
+                      type="button" data-bs-toggle="collapse" data-bs-target="#collapseSevenTwo"
+                      aria-expanded="false" aria-controls="collapseSevenTwo">
+                      14. How do I get started?
+                    </button>
+                  </h5>
+                  <div id="collapseSevenTwo" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionExampleTwp">
+                    <div
+                      class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
+                      <p class="text-neutral-500 tw-leading-212">We offer both short-term and
+                        long-term plans. Contracts vary based on your chosen service and project
+                        scope.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
-        </section>
-        <!-- =============================== FAQ section end ================================= -->
+          </div>
+        </div>
+      </section>
+      <!-- =============================== FAQ section end ================================= -->
 
-        <!-- =============================== Contact section start ================================= -->
-<section class="contact pb-120">
-    <div class="container">
-        <div class="row gy-4">
-             <!-- Section heading start -->
-               <div class="max-w-780-px text-center mx-auto tw-mb-10" 
-     data-aos="fade-up" data-aos-duration="800" data-aos-delay="100">
+      <!-- =============================== Contact section start ================================= -->
+      <section class="contact pb-120">
+        <div class="container">
+          <div class="row gy-4">
+            <!-- Section heading start -->
+            <div class="max-w-780-px text-center mx-auto tw-mb-10"
+              data-aos="fade-up" data-aos-duration="800" data-aos-delay="100">
 
-    <span class="bg-main-50 text-main-600 fw-medium tw-text-base rounded-pill tw-px-5 tw-py-1 tw-mb-6">
-        Contact Us
-    </span>
+              <span class="bg-main-50 text-main-600 fw-medium tw-text-base rounded-pill tw-px-5 tw-py-1 tw-mb-6">
+                Contact Us
+              </span>
 
-    <h2 class="splitTextStyleOne cursor-big">
-        Reach Out to Us for 
-        <span class="font-playfair fw-normal fst-italic">
-            Digital Marketing Services in Nagpur
-        </span>
-    </h2>
-</div>
+              <h2 class="splitTextStyleOne cursor-big">
+                Reach Out to Us for
+                <span class="font-playfair fw-normal fst-italic">
+                  Digital Marketing Services in Nagpur
+                </span>
+              </h2>
+            </div>
 
-                <!-- Section heading end -->
+            <!-- Section heading end -->
 
             <div class="col-lg-7">
-              
-                <div class="bg-white tw-text-2xl common-shadow-5 tw-p-60-px">
-                  
-              
-                    <form action="#" class="form-submit">
-                        <div class="row gy-4">
-                            <div class="col-sm-6">
-                                <div class="">
-                                    <label for="name"
-                                        class="tw-text-base text-heading fw-medium text-capitalize tw-mb-2 d-block">Your
-                                        name*</label>
-                                    <input type="text" id="name"
-                                        class="bg-neutral-100 tw-text-base tw-px-6 tw-py-3 tw-h-13 tw-rounded-md w-100 focus-outline-0 border border-neutral-100 focus-border-main-600 placeholder-text-sm"
-                                        placeholder="William John" required>
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="">
-                                    <label for="mail"
-                                        class="tw-text-base text-heading fw-medium text-capitalize tw-mb-2 d-block">Your
-                                        email*</label>
-                                    <input type="email" id="mail"
-                                        class="bg-neutral-100 tw-text-base tw-px-6 tw-py-3 tw-h-13 tw-rounded-md w-100 focus-outline-0 border border-neutral-100 focus-border-main-600 placeholder-text-sm"
-                                        placeholder="william@gmail.com" required>
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="">
-                                    <label for="phone"
-                                        class="tw-text-base text-heading fw-medium text-capitalize tw-mb-2 d-block">Your
-                                        Phone*</label>
-                                    <input type="tel" id="phone"
-                                        class="bg-neutral-100 tw-text-base tw-px-6 tw-py-3 tw-h-13 tw-rounded-md w-100 focus-outline-0 border border-neutral-100 focus-border-main-600 placeholder-text-sm"
-                                        placeholder="+12 (029) 993 442" required>
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="">
-                                    <label for="category"
-                                        class="tw-text-base text-heading fw-medium text-capitalize tw-mb-2 d-block">Your
-                                        Subject*</label>
-                                    <select
-                                        class="bg-neutral-100 tw-text-base tw-px-6 tw-py-1 tw-h-13 tw-rounded-md w-100 focus-outline-0 border border-neutral-100 focus-border-main-600 placeholder-text-sm form-select shadow-none text-neutral-600"
-                                        id="category">
-                                        <option value="Digital Marketing">Digital Marketing</option>
-                                        <option value="SEO">SEO</option>
-                                        <option value="Digital Agency">Digital Agency</option>
-                                    </select>
-                                </div>
-                            </div>
-                            <div class="col-sm-12">
-                                <div class="">
-                                    <label for="message"
-                                        class="tw-text-base text-heading fw-medium text-capitalize tw-mb-2 d-block">Your
-                                        Message*</label>
-                                    <div class="">
-                                        <textarea id="message"
-                                            class="bg-neutral-100 tw-text-base tw-px-6 tw-py-3 tw-rounded-md w-100 focus-outline-0 border border-neutral-100 focus-border-main-600 placeholder-text-sm tw-min-h-150-px"
-                                            placeholder="Write your message..."></textarea>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <button type="submit"
-                                    class="btn btn-main hover-style-one button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-705 group active--translate-y-2 tw-p-1 tw-ps-8 rounded-pill group-item"
-                                    data-block="button">
-                                    <span class="button__flair"></span>
-                                    <span class="button__label">Send Your Message</span>
-                                    <span
-                                        class="tw-w-12 tw-h-12 bg-white text-main-600 tw-text-xl rounded-circle d-flex justify-content-center align-items-center position-relative tw-duration-500">
-                                        <i
-                                            class="ph-bold ph-arrow-right tw-rotate--45-deg group-hover-item-rotate-0-deg tw-duration-300"></i>
-                                    </span>
-                                </button>
-                            </div>
+
+              <div class="bg-white tw-text-2xl common-shadow-5 tw-p-60-px">
+
+
+                <form action="#" class="form-submit">
+                  <div class="row gy-4">
+                    <div class="col-sm-6">
+                      <div class="">
+                        <label for="name"
+                          class="tw-text-base text-heading fw-medium text-capitalize tw-mb-2 d-block">Your
+                          name*</label>
+                        <input type="text" id="name"
+                          class="bg-neutral-100 tw-text-base tw-px-6 tw-py-3 tw-h-13 tw-rounded-md w-100 focus-outline-0 border border-neutral-100 focus-border-main-600 placeholder-text-sm"
+                          placeholder="William John" required>
+                      </div>
+                    </div>
+                    <div class="col-sm-6">
+                      <div class="">
+                        <label for="mail"
+                          class="tw-text-base text-heading fw-medium text-capitalize tw-mb-2 d-block">Your
+                          email*</label>
+                        <input type="email" id="mail"
+                          class="bg-neutral-100 tw-text-base tw-px-6 tw-py-3 tw-h-13 tw-rounded-md w-100 focus-outline-0 border border-neutral-100 focus-border-main-600 placeholder-text-sm"
+                          placeholder="william@gmail.com" required>
+                      </div>
+                    </div>
+                    <div class="col-sm-6">
+                      <div class="">
+                        <label for="phone"
+                          class="tw-text-base text-heading fw-medium text-capitalize tw-mb-2 d-block">Your
+                          Phone*</label>
+                        <input type="tel" id="phone"
+                          class="bg-neutral-100 tw-text-base tw-px-6 tw-py-3 tw-h-13 tw-rounded-md w-100 focus-outline-0 border border-neutral-100 focus-border-main-600 placeholder-text-sm"
+                          placeholder="+12 (029) 993 442" required>
+                      </div>
+                    </div>
+                    <div class="col-sm-6">
+                      <div class="">
+                        <label for="category"
+                          class="tw-text-base text-heading fw-medium text-capitalize tw-mb-2 d-block">Your
+                          Subject*</label>
+                        <select
+                          class="bg-neutral-100 tw-text-base tw-px-6 tw-py-1 tw-h-13 tw-rounded-md w-100 focus-outline-0 border border-neutral-100 focus-border-main-600 placeholder-text-sm form-select shadow-none text-neutral-600"
+                          id="category">
+                          <option value="Digital Marketing">Digital Marketing</option>
+                          <option value="SEO">SEO</option>
+                          <option value="Digital Agency">Digital Agency</option>
+                        </select>
+                      </div>
+                    </div>
+                    <div class="col-sm-12">
+                      <div class="">
+                        <label for="message"
+                          class="tw-text-base text-heading fw-medium text-capitalize tw-mb-2 d-block">Your
+                          Message*</label>
+                        <div class="">
+                          <textarea id="message"
+                            class="bg-neutral-100 tw-text-base tw-px-6 tw-py-3 tw-rounded-md w-100 focus-outline-0 border border-neutral-100 focus-border-main-600 placeholder-text-sm tw-min-h-150-px"
+                            placeholder="Write your message..."></textarea>
                         </div>
-                    </form>
-                </div>
+                      </div>
+                    </div>
+                    <div class="col-12">
+                      <button type="submit"
+                        class="btn btn-main hover-style-one button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-705 group active--translate-y-2 tw-p-1 tw-ps-8 rounded-pill group-item"
+                        data-block="button">
+                        <span class="button__flair"></span>
+                        <span class="button__label">Send Your Message</span>
+                        <span
+                          class="tw-w-12 tw-h-12 bg-white text-main-600 tw-text-xl rounded-circle d-flex justify-content-center align-items-center position-relative tw-duration-500">
+                          <i
+                            class="ph-bold ph-arrow-right tw-rotate--45-deg group-hover-item-rotate-0-deg tw-duration-300"></i>
+                        </span>
+                      </button>
+                    </div>
+                  </div>
+                </form>
+              </div>
             </div>
             <div class="col-lg-5 ps-lg-5 d-lg-block d-none">
-                <div class="h-100 hover-animation-white">
-                    <img src="assets/images/thumbs/contact-img.png" alt="Image"
-                        class="tw-rounded-xl w-100 h-100 object-fit-cover">
-                </div>
+              <div class="h-100 hover-animation-white">
+                <img src="assets/images/thumbs/contact-img.png" alt="Image"
+                  class="tw-rounded-xl w-100 h-100 object-fit-cover">
+              </div>
             </div>
+          </div>
         </div>
-    </div>
-</section>
-<!-- =============================== Contact section end ================================= -->
+      </section>
+      <!-- =============================== Contact section end ================================= -->
 
 
-<?php include 'include/footer.php'; ?>
+      <?php include 'include/footer.php'; ?>
