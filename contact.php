@@ -724,8 +724,50 @@ Our experts work closely with you to understand your goals, challenges, and expe
                                     Our team is dedicated to providing quick assistance, project support, and reliable communication. No waiting. No confusion. Just real help from real people.
 
                                 </p>
-                            </div>
+                                <div class="tw-mt-15 d-flex flex-column tw-gap-5">
+                          <div class="d-flex align-items-center tw-gap-4">
+                            <span
+                              class="tw-w-4 tw-h-4 bg-main-600 text-white tw-text-xs d-flex justify-content-center align-items-center rounded-circle">
+                              <i class="ph-bold ph-check"></i>
+                            </span>
+                            <p class="text-neutral-500">SEO and social media campaigns
+</p>
+                          </div>
+                          <div class="d-flex align-items-center tw-gap-4">
+                            <span
+                              class="tw-w-4 tw-h-4 bg-main-600 text-white tw-text-xs d-flex justify-content-center align-items-center rounded-circle">
+                              <i class="ph-bold ph-check"></i>
+                            </span>
+                            <p class="text-neutral-500">Website or software development
+</p>
+                          </div>
 
+                          <div class="d-flex align-items-center tw-gap-4">
+                            <span
+                              class="tw-w-4 tw-h-4 bg-main-600 text-white tw-text-xs d-flex justify-content-center align-items-center rounded-circle">
+                              <i class="ph-bold ph-check"></i>
+                            </span>
+                            <p class="text-neutral-500">Digital marketing services
+</p>
+                          </div>
+                          <div class="d-flex align-items-center tw-gap-4">
+                            <span
+                              class="tw-w-4 tw-h-4 bg-main-600 text-white tw-text-xs d-flex justify-content-center align-items-center rounded-circle">
+                              <i class="ph-bold ph-check"></i>
+                            </span>
+                            <p class="text-neutral-500">
+Google Ads or branding services</p>
+                          </div>
+
+                          <div class="d-flex align-items-center tw-gap-4">
+                            <span
+                              class="tw-w-4 tw-h-4 bg-main-600 text-white tw-text-xs d-flex justify-content-center align-items-center rounded-circle">
+                              <i class="ph-bold ph-check"></i>
+                            </span>
+                            <p class="text-neutral-500">Business growth strategy consultation</p>
+                          </div>
+                        </div>
+                            </div>
                             <div class="row gy-5 p-4">
                                 <div class="col-sm-6" data-aos="fade-up" data-aos-duration="800" data-aos-delay="100">
                                     <div class="">
