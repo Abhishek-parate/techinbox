@@ -328,9 +328,7 @@
                                     data-bs-parent="#accordionExample">
                                     <div
                                         class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                        <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                            long-term plans. Contracts vary based on your chosen service and project
-                                            scope.</p>
+                                        <p class="text-neutral-500 tw-leading-212">We offer SEO, social media marketing, Google Ads, PPC campaigns, website development, branding, content creation, email & WhatsApp automation, and digital growth consulting.</p>
                                     </div>
                                 </div>
                             </div>
@@ -348,9 +346,7 @@
                                     data-bs-parent="#accordionExample">
                                     <div
                                         class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                        <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                            long-term plans. Contracts vary based on your chosen service and project
-                                            scope.</p>
+                                        <p class="text-neutral-500 tw-leading-212">We measure performance based on leads, conversions, ROI, and revenue—not likes or views.</p>
                                     </div>
                                 </div>
                             </div>
