@@ -3,7 +3,7 @@
 
 <head>
     <meta name="description"
-        content="Contact Tech In Box for digital marketing, SEO, website development, and software solutions. Speak with our experts today for business growth support. Call 9860303985.">
+        content="Contact Tech In Box for digital marketing, SEO, website development, and software solutions. Speak with our experts today for business growth support.">
     <meta name="keywords" content="contact Tech In Box, digital marketing support Nagpur, business inquiry Nagpur, marketing consultation Nagpur
 ">
     <meta name="robots" content="INDEX,FOLLOW">
@@ -11,11 +11,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Title -->
-    <title>Contact Tech In Box – Best Digital Marketing Company in Nagpur | Get in Touch
+    <title>Contact Tech In Box – Best Digital Marketing Company in Nagpur 
     </title>
 
 
-    <?php include 'include/header.php'; ?>
+    <?php include 'includes/header.php'; ?>
 
 
     <script type="application/ld+json">
@@ -95,7 +95,7 @@
     </div>
     <!-- Search Popup End -->
 
-    <?php include 'include/menu.php'; ?>
+    <?php include 'includes/menu.php'; ?>
 
 
     <div id="smooth-wrapper" class="">
@@ -375,329 +375,197 @@
                 </div>
             </section>
             <!-- =========================== Contact section end =============================== -->
-            <section class="faq py-120">
-                <div class="container">
-                    <!-- Section heading start -->
-                    <div class="max-w-780-px text-center mx-auto tw-mb-10" data-aos="fade-up" data-aos-duration="800"
-                        data-aos-delay="100">
-                        <span
-                            class="bg-main-50 text-main-600 fw-medium tw-text-base rounded-pill tw-px-5 tw-py-1 tw-mb-6">
-                            Our FAQs</span>
-                        <h2 class="splitTextStyleOne cursor-big">
-                            Frequently Asked Questions
-                            <span class="font-playfair fw-normal font-playfair fst-italic">About Us</span>
-                        </h2>
-                    </div>
-                    <!-- Section heading end -->
+<?php
+// Dynamic FAQs for this page
+$faqs = [
+    [
+        'q' => '1. What services do you offer?',
+        'a' => 'We provide SEO, social media marketing, website development, Google Ads, and complete digital marketing solutions tailored to your business goals.'
+    ],
+    [
+        'q' => '2. How do you measure success?',
+        'a' => 'Success is measured through traffic, conversions, and ROI with regular performance reports.'
+    ],
+    [
+        'q' => '3. Do you work with all industries?',
+        'a' => 'Yes, we work with e‑commerce, healthcare, real estate, education, hospitality, and more.'
+    ],
+    [
+        'q' => '4. How long before I see results?',
+        'a' => 'SEO usually takes 3–6 months, social media 1–3 months, and paid ads can show results immediately.'
+    ],
+    // yahan jitne chahe FAQs add karo...
+];
+?>
 
-                    <div class="row gy-4">
-                        <div class="col-lg-6">
-                            <div class="accordion common-accordion d-flex flex-column tw-gap-5" id="accordionExample">
-                                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                    data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                    <h5
-                                        class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                        <button
-                                            class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                            type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo"
-                                            aria-expanded="false" aria-controls="collapseTwo">
-                                            1. What services do you offer?
-                                        </button>
-                                    </h5>
-                                    <div id="collapseTwo" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionExample">
-                                        <div
-                                            class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                            <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                                long-term plans. Contracts vary based on your chosen service and project
-                                                scope.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                    data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                    <h5
-                                        class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                        <button
-                                            class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold"
-                                            type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
-                                            aria-expanded="true" aria-controls="collapseOne">
-                                            2. How do you measure success?
-                                        </button>
-                                    </h5>
-                                    <div id="collapseOne" class="accordion-collapse collapse show"
-                                        data-bs-parent="#accordionExample">
-                                        <div
-                                            class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                            <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                                long-term plans. Contracts vary based on your chosen service and project
-                                                scope.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                    data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                    <h5
-                                        class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                        <button
-                                            class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                            type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree"
-                                            aria-expanded="false" aria-controls="collapseThree">
-                                            3. Do you work with all industries?
-                                        </button>
-                                    </h5>
-                                    <div id="collapseThree" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionExample">
-                                        <div
-                                            class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                            <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                                long-term plans. Contracts vary based on your chosen service and project
-                                                scope.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                    data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                    <h5
-                                        class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                        <button
-                                            class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                            type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour"
-                                            aria-expanded="false" aria-controls="collapseFour">
-                                            4. How long before I see results?
-                                        </button>
-                                    </h5>
-                                    <div id="collapseFour" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionExample">
-                                        <div
-                                            class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                            <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                                long-term plans. Contracts vary based on your chosen service and project
-                                                scope.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                    data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                    <h5
-                                        class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                        <button
-                                            class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                            type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive"
-                                            aria-expanded="false" aria-controls="collapseFive">
-                                            5. Is there a contract required?
-                                        </button>
-                                    </h5>
-                                    <div id="collapseFive" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionExample">
-                                        <div
-                                            class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                            <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                                long-term plans. Contracts vary based on your chosen service and project
-                                                scope.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                    data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                    <h5
-                                        class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                        <button
-                                            class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                            type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix"
-                                            aria-expanded="false" aria-controls="collapseSix">
-                                            6. What platforms do you specialize in?
-                                        </button>
-                                    </h5>
-                                    <div id="collapseSix" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionExample">
-                                        <div
-                                            class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                            <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                                long-term plans. Contracts vary based on your chosen service and project
-                                                scope.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                    data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                    <h5
-                                        class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                        <button
-                                            class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                            type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven"
-                                            aria-expanded="false" aria-controls="collapseSeven">
-                                            7. Can you redesign my website?
-                                        </button>
-                                    </h5>
-                                    <div id="collapseSeven" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionExample">
-                                        <div
-                                            class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                            <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                                long-term plans. Contracts vary based on your chosen service and project
-                                                scope.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+<section class="py-120">
+  <div class="container">
+    <div class="max-w-780-px text-center mx-auto tw-mb-10">
+      <span class="bg-main-50 text-main-600 fw-medium tw-text-base rounded-pill tw-px-5 tw-py-1 tw-mb-6">
+        Our FAQs
+      </span>
+      <h2 class="splitTextStyleOne cursor-big">
+        Frequently Asked Questions
+        <span class="font-playfair fw-normal font-playfair fst-italic">About Us</span>
+      </h2>
+    </div>
 
-                        <div class="col-lg-6">
-                            <div class="accordion common-accordion d-flex flex-column tw-gap-5"
-                                id="accordionExampleTwp">
-                                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                    data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                    <h5
-                                        class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                        <button
-                                            class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                            type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwoTwo"
-                                            aria-expanded="false" aria-controls="collapseTwoTwo">
-                                            8. How much do your services cost?
-                                        </button>
-                                    </h5>
-                                    <div id="collapseTwoTwo" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionExampleTwp">
-                                        <div
-                                            class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                            <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                                long-term plans. Contracts vary based on your chosen service and project
-                                                scope.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                    data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                    <h5
-                                        class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                        <button
-                                            class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold"
-                                            type="button" data-bs-toggle="collapse" data-bs-target="#collapseOneTwo"
-                                            aria-expanded="true" aria-controls="collapseOneTwo">
-                                            9. Do you provide regular reports?
-                                        </button>
-                                    </h5>
-                                    <div id="collapseOneTwo" class="accordion-collapse collapse show"
-                                        data-bs-parent="#accordionExampleTwp">
-                                        <div
-                                            class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                            <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                                long-term plans. Contracts vary based on your chosen service and project
-                                                scope.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                    data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                    <h5
-                                        class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                        <button
-                                            class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                            type="button" data-bs-toggle="collapse" data-bs-target="#collapseThreeTwo"
-                                            aria-expanded="false" aria-controls="collapseThreeTwo">
-                                            10. Will I have a dedicated manager?
-                                        </button>
-                                    </h5>
-                                    <div id="collapseThreeTwo" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionExampleTwp">
-                                        <div
-                                            class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                            <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                                long-term plans. Contracts vary based on your chosen service and project
-                                                scope.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                    data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                    <h5
-                                        class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                        <button
-                                            class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                            type="button" data-bs-toggle="collapse" data-bs-target="#collapseFourTwo"
-                                            aria-expanded="false" aria-controls="collapseFourTwo">
-                                            11. Do you offer one-time services?
-                                        </button>
-                                    </h5>
-                                    <div id="collapseFourTwo" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionExampleTwp">
-                                        <div
-                                            class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                            <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                                long-term plans. Contracts vary based on your chosen service and project
-                                                scope.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                    data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                    <h5
-                                        class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                        <button
-                                            class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                            type="button" data-bs-toggle="collapse" data-bs-target="#collapseFiveTwo"
-                                            aria-expanded="false" aria-controls="collapseFiveTwo">
-                                            12. Can you help with branding?
-                                        </button>
-                                    </h5>
-                                    <div id="collapseFiveTwo" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionExampleTwp">
-                                        <div
-                                            class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                            <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                                long-term plans. Contracts vary based on your chosen service and project
-                                                scope.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                    data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                    <h5
-                                        class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                        <button
-                                            class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                            type="button" data-bs-toggle="collapse" data-bs-target="#collapseSixTwo"
-                                            aria-expanded="false" aria-controls="collapseSixTwo">
-                                            13. What makes your agency different?
-                                        </button>
-                                    </h5>
-                                    <div id="collapseSixTwo" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionExampleTwp">
-                                        <div
-                                            class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                            <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                                long-term plans. Contracts vary based on your chosen service and project
-                                                scope.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item tw-py-3 tw-px-8 tw-rounded-xl bg-transparent mb-0 border border-neutral-200"
-                                    data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
-                                    <h5
-                                        class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
-                                        <button
-                                            class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent text-22-px fw-semibold collapsed"
-                                            type="button" data-bs-toggle="collapse" data-bs-target="#collapseSevenTwo"
-                                            aria-expanded="false" aria-controls="collapseSevenTwo">
-                                            14. How do I get started?
-                                        </button>
-                                    </h5>
-                                    <div id="collapseSevenTwo" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionExampleTwp">
-                                        <div
-                                            class="accordion-body ps-0 pe-0 pb-0 tw-pt-5 max-w-620-px border-top border-neutral-200 tw-mt-5">
-                                            <p class="text-neutral-500 tw-leading-212">We offer both short-term and
-                                                long-term plans. Contracts vary based on your chosen service and project
-                                                scope.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+    <div class="ti-acc-list">
+      <?php foreach ($faqs as $i => $faq): ?>
+      <div class="ti-acc-item <?= $i === 0 ? 'ti-acc-item--active' : '' ?>">
+        <button type="button" class="ti-acc-header">
+          <span class="ti-acc-title"><?= htmlspecialchars($faq['q']) ?></span>
+          <span class="ti-acc-icon"></span>
+        </button>
+        <div class="ti-acc-body-wrap">
+          <div class="ti-acc-body">
+            <p class="text-neutral-500 tw-leading-212">
+              <?= nl2br(htmlspecialchars($faq['a'])) ?>
+            </p>
+          </div>
+        </div>
+      </div>
+      <?php endforeach; ?>
+    </div>
+  </div>
+</section>
+
+<style>
+.ti-acc-list {
+  max-width: 780px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.ti-acc-item {
+  border-radius: 16px;
+  border: 1px solid #e5e7eb;
+  background: #ffffff;
+  box-shadow: 0 1px 2px rgba(15,23,42,.04);
+  overflow: hidden;
+  transition: border-color .18s ease, box-shadow .18s ease, background .18s ease;
+}
+.ti-acc-item--active {
+  border-color: #4f46e5;
+  background: #f9fafb;
+  box-shadow: 0 8px 24px rgba(15,23,42,.06);
+}
+.ti-acc-header {
+  width: 100%;
+  padding: 16px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+.ti-acc-title {
+  font-size: 17px;
+  font-weight: 600;
+  color: #111827;
+  text-align: left;
+}
+.ti-acc-item--active .ti-acc-title {
+  color: #4f46e5;
+}
+.ti-acc-icon {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  border-radius: 999px;
+  border: 1px solid #e5e7eb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.ti-acc-icon::before,
+.ti-acc-icon::after {
+  content: "";
+  position: absolute;
+  background: #4b5563;
+  border-radius: 999px;
+  transition: transform .18s ease, opacity .18s ease;
+}
+.ti-acc-icon::before {
+  width: 12px;
+  height: 2px;
+}
+.ti-acc-icon::after {
+  width: 2px;
+  height: 12px;
+}
+.ti-acc-item--active .ti-acc-icon::after {
+  opacity: 0; /* minus */
+}
+.ti-acc-body-wrap {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height .22s ease;
+}
+.ti-acc-item--active .ti-acc-body-wrap {
+  /* height JS se set hogi */
+}
+.ti-acc-body {
+  padding: 0 20px 16px 20px;
+  border-top: 1px solid #e5e7eb;
+  margin-top: 8px;
+  color: #4b5563;
+  font-size: 15px;
+  line-height: 1.6;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var items = document.querySelectorAll('.ti-acc-item');
+
+  items.forEach(function (item) {
+    var header = item.querySelector('.ti-acc-header');
+    var bodyWrap = item.querySelector('.ti-acc-body-wrap');
+
+    if (item.classList.contains('ti-acc-item--active') && bodyWrap) {
+      bodyWrap.style.maxHeight = bodyWrap.scrollHeight + 'px';
+    }
+
+    header.addEventListener('click', function (e) {
+      e.preventDefault();
+
+      var isActive = item.classList.contains('ti-acc-item--active');
+      var list = item.parentElement;
+
+      list.querySelectorAll('.ti-acc-item').forEach(function (other) {
+        var w = other.querySelector('.ti-acc-body-wrap');
+        other.classList.remove('ti-acc-item--active');
+        if (w) w.style.maxHeight = '0px';
+      });
+
+      if (!bodyWrap) return;
+
+      if (!isActive) {
+        item.classList.add('ti-acc-item--active');
+        bodyWrap.style.maxHeight = bodyWrap.scrollHeight + 'px';
+      }
+    });
+  });
+});
+</script>
+
+<script>
+// Sabse pehle chalega, kisi bhi library se pehle
+(function() {
+  var origScrollTo = window.scrollTo;
+  window.scrollTo = function(x, y) {
+    console.log('🚨 SCROLL CALLED:', x, y, new Error().stack);
+    // Temporarily block scroll
+    // origScrollTo.call(window, x, y);
+  };
+})();
+</script>
+
 
 
 
@@ -710,4 +578,4 @@
             <!-- Google Map end -->
 
             <!-- ==================== Footer Start Here ==================== -->
-            <?php include 'include/footer.php'; ?>
+            <?php include 'includes/footer.php'; ?>

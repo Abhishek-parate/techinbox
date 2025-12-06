@@ -16,9 +16,9 @@
     <title>SEO, Social Media & Advertising Agency HTML Template | Creative & Responsive </title>
 
 
-    <?php include 'include/header.php'; ?>
+    <?php include 'includes/header.php'; ?>
 
-    <?php include 'include/header.php'; ?>
+    <?php include 'includes/header.php'; ?>
 </head>
 
 <body>
@@ -79,7 +79,7 @@
     </div>
     <!-- Search Popup End -->
 
-    <?php include 'include/menu.php'; ?>
+    <?php include 'includes/menu.php'; ?>
 
     <div id="smooth-wrapper" class="">
         <div id="smooth-content">
@@ -705,4 +705,4 @@
             <!-- =============================== Contact section end ================================= -->
 
 
-            <?php include 'include/footer.php'; ?>
+            <?php include 'includes/footer.php'; ?>
