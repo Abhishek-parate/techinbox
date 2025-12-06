@@ -130,9 +130,9 @@
                     <ul class="d-inline-flex align-items-center justify-content-center tw-gap-2 bg-white-08 rounded-pill tw-px-5 tw-py-2">
                         <li><a href="index.html" class="text-white hover--translate-y-1 hover-underline"> <i class="las la-home"></i> Home</a> </li>
                         <li class="text-white tw-text-lg">/</li>
-                        <li> <span class="text-white"> Service Details </span> </li>
+                        <li> <span class="text-white">Graphic Design Services </span> </li>
                     </ul>
-                    <h2 class="text-center tw-mb-6 text-white tw-mt-6 cursor-big"> Service Details</h2>
+                    <h2 class="text-center tw-mb-6 text-white tw-mt-6 cursor-big"> Graphic Design Services in Nagpur</h2>
                 </div>
             </div>
         </div>
@@ -300,7 +300,7 @@
 
                                 <div class="col-sm-6">
                                     <div class="h-100 hover-animation-white">
-                                        <img src="assets/images/thumbs/service-details-img3.png" alt="Logo Design Services"
+                                        <img src="assets/images/thumbs/Website Decoration.gif" alt="Logo Design Services"
                                             class="tw-rounded-xl w-100 h-100 object-fit-cover">
                                     </div>
                                 </div>
