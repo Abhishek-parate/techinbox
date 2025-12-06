@@ -270,7 +270,7 @@
                     <!-- Other Pages -->
                     <li class="nav-menu__item"><a href="about" class="nav-menu__link text-heading tw-py-9 fw-medium w-100">About</a></li>
                     <li class="nav-menu__item"><a href="projects" class="nav-menu__link text-heading tw-py-9 fw-medium w-100">Projects</a></li>
-                    <li class="nav-menu__item"><a href="blog" class="nav-menu__link text-heading tw-py-9 fw-medium w-100">Blog</a></li>
+                    <li class="nav-menu__item"><a href="blogs/all-blog.php" class="nav-menu__link text-heading tw-py-9 fw-medium w-100">Blogs</a></li>
                     <li class="nav-menu__item"><a href="contact" class="nav-menu__link text-heading tw-py-9 fw-medium w-100">Contact</a></li>
                 </ul>
                 <!-- Nav menu End -->
